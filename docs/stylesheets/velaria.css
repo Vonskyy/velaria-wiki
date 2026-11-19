@@ -1,0 +1,113 @@
+/* VOICE   guia de jogo, direto, para quem nunca leu um manual
+   IDEA    o diário do Desperto: cada página é uma folha ilustrada de Velária ao amanhecer
+   PICTURE mapas, escadas de tier e cadeias de forja desenhados em SVG, com os ícones reais do jogo
+   COLOUR  céu de alvorada: índigo profundo, rosa da aurora, ouro do sol nascente
+   TYPE    Cinzel nos títulos (letreiro de pedra), Inter no texto */
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&display=swap");
+
+:root, [data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #f08a6b;
+  --md-primary-fg-color--light: #ffb39c;
+  --md-primary-fg-color--dark: #c9603f;
+  --md-accent-fg-color: #ffd27a;
+  --md-default-bg-color: #15131f;
+  --md-default-fg-color--light: #c9c4dc;
+  --md-typeset-a-color: #ffb39c;
+  --vel-card: #1f1b2e;
+  --vel-card2: #272240;
+  --vel-line: #3a3358;
+  --vel-ouro: #ffd27a;
+  --vel-rosa: #f08a6b;
+  --vel-t1: #9aa3ad; --vel-t2: #6fbf73; --vel-t3: #e0603a; --vel-t4: #7b86e8; --vel-t5: #c07be8;
+}
+.md-header, .md-tabs { background: #1b1830; color: #f3eefe; }
+.md-header__title, .md-tabs__link { font-weight: 600; }
+.md-typeset h1, .md-typeset h2, .md-header__topic:first-child { font-family: "Cinzel", Georgia, serif; letter-spacing: .01em; }
+.md-typeset h1 { color: #fff4e6; font-size: 2.1rem; margin-bottom: .6em; }
+.md-typeset h2 { color: var(--vel-ouro); border-bottom: 1px solid var(--vel-line); padding-bottom: .25em; }
+.md-typeset h3 { color: #f3eefe; }
+.md-typeset { font-size: .84rem; line-height: 1.7; }
+.md-typeset img.px, .md-typeset .px img, .pix { image-rendering: pixelated; }
+
+/* herói da página inicial */
+.hero { position: relative; border-radius: 18px; overflow: hidden; margin: -.4rem 0 2rem;
+  background: radial-gradient(120% 90% at 70% 110%, #f08a6b 0%, #8d4b7a 28%, #2b2350 60%, #15131f 100%);
+  padding: clamp(24px, 4vw, 48px); min-height: 360px; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.25fr); gap: 24px; align-items: end; }
+.hero h1 { font-size: clamp(2.4rem, 5vw, 3.6rem); margin: 0; line-height: 1.05; color: #fff; text-shadow: 0 2px 18px #0008; }
+.hero p { color: #f6e9ff; font-size: .95rem; max-width: 34em; }
+.hero .linha { display: flex; align-items: flex-end; justify-content: center; gap: 0; }
+.hero .linha img { height: clamp(80px, 12vw, 150px); margin: 0 -10px; filter: drop-shadow(0 10px 8px #0007); }
+.hero .botoes { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 14px; }
+.hero .botoes a { background: #ffd27a; color: #2a1b10 !important; padding: 10px 18px; border-radius: 999px; font-weight: 700; text-decoration: none; }
+.hero .botoes a.sec { background: #ffffff1c; color: #fff !important; border: 1px solid #ffffff44; }
+@media (max-width: 760px) { .hero { grid-template-columns: 1fr; } }
+
+/* cartões */
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 14px; margin: 1rem 0 1.6rem; }
+.card { background: var(--vel-card); border: 1px solid var(--vel-line); border-radius: 14px; padding: 16px 18px; }
+.card h3 { margin: 0 0 .4em; font-size: 1rem; }
+.card p { margin: .3em 0; }
+.card .mais { color: #8fe39a; } .card .menos { color: #ff9a8a; }
+a.card { display: block; color: inherit !important; text-decoration: none; transition: transform .15s, border-color .15s; }
+a.card:hover { transform: translateY(-3px); border-color: var(--vel-rosa); }
+.card .ic { font-size: 1.6rem; }
+.card img.icone { width: 40px; height: 40px; image-rendering: pixelated; float: right; }
+
+/* passos numerados */
+.passos { counter-reset: p; display: grid; gap: 12px; margin: 1rem 0 1.6rem; }
+.passo { counter-increment: p; display: grid; grid-template-columns: 54px minmax(0, 1fr); gap: 14px; align-items: start;
+  background: var(--vel-card); border: 1px solid var(--vel-line); border-radius: 14px; padding: 14px 16px; }
+.passo::before { content: counter(p); width: 44px; height: 44px; border-radius: 50%; display: grid; place-items: center;
+  background: linear-gradient(160deg, #ffd27a, #f08a6b); color: #2a1b10; font: 700 1.2rem "Cinzel", serif; }
+.passo h3 { margin: .1em 0 .3em; }
+.passo p { margin: .2em 0; }
+
+/* figuras desenhadas */
+.figura { background: var(--vel-card); border: 1px solid var(--vel-line); border-radius: 16px; padding: 12px; margin: 1rem 0 1.4rem; overflow-x: auto; }
+.figura svg { display: block; width: 100%; height: auto; min-width: 560px; }
+.figura figcaption, .legenda { color: var(--md-default-fg-color--light); font-size: .78rem; margin-top: .4rem; text-align: center; }
+.foto { border-radius: 14px; overflow: hidden; border: 1px solid var(--vel-line); margin: 1rem 0; }
+.foto img { display: block; width: 100%; }
+
+/* Ordens */
+.ordem { background: var(--vel-card); border: 1px solid var(--vel-line); border-radius: 18px; padding: 18px; margin: 1.2rem 0 1.8rem; }
+.ordem .topo { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: baseline; }
+.ordem .topo h2 { border: 0; margin: 0; }
+.selo { display: inline-block; padding: 2px 10px; border-radius: 999px; font-size: .72rem; font-weight: 700; background: var(--vel-card2); border: 1px solid var(--vel-line); }
+.peso-pesada { background: #6b3a2a; border-color: #a85a3f; } .peso-media { background: #2f4f3a; border-color: #4f8a60; } .peso-leve { background: #33366b; border-color: #5a5fb5; }
+.tiers5 { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 8px; margin: 12px 0; }
+.tiers5 figure { margin: 0; text-align: center; background: #15131f; border-radius: 12px; padding: 8px 4px 6px; border-top: 3px solid var(--vel-t1); }
+.tiers5 figure:nth-child(2) { border-top-color: var(--vel-t2); } .tiers5 figure:nth-child(3) { border-top-color: var(--vel-t3); }
+.tiers5 figure:nth-child(4) { border-top-color: var(--vel-t4); } .tiers5 figure:nth-child(5) { border-top-color: var(--vel-t5); }
+.tiers5 img { height: 120px; width: auto; max-width: 100%; object-fit: contain; image-rendering: pixelated; }
+.tiers5 figcaption { font-size: .7rem; line-height: 1.25; margin-top: 4px; }
+.tiers5 b { display: block; color: var(--vel-ouro); }
+.caminhos { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
+.caminhos div { background: #15131f; border-radius: 10px; padding: 8px 10px; font-size: .78rem; }
+.caminhos b { color: #fff; } .caminhos span { color: var(--vel-ouro); }
+@media (max-width: 640px) { .tiers5 { grid-template-columns: repeat(3, minmax(0, 1fr)); } .caminhos { grid-template-columns: 1fr; } }
+
+/* tabela de minérios */
+.md-typeset table:not([class]) { border-radius: 12px; overflow: hidden; border: 1px solid var(--vel-line); font-size: .78rem; }
+.md-typeset table:not([class]) th { background: var(--vel-card2); color: var(--vel-ouro); }
+.md-typeset table:not([class]) td img { image-rendering: pixelated; vertical-align: middle; }
+.t1 { color: var(--vel-t1); } .t2 { color: var(--vel-t2); } .t3 { color: var(--vel-t3); } .t4 { color: var(--vel-t4); } .t5 { color: var(--vel-t5); }
+.tag { display: inline-block; min-width: 2.2em; text-align: center; border-radius: 6px; padding: 0 6px; font-weight: 700; color: #15131f; }
+.tag.t1 { background: var(--vel-t1); } .tag.t2 { background: var(--vel-t2); } .tag.t3 { background: var(--vel-t3); } .tag.t4 { background: var(--vel-t4); } .tag.t5 { background: var(--vel-t5); }
+
+/* barras de qualidade */
+.barras { display: grid; gap: 8px; margin: 1rem 0 1.4rem; }
+.barra { display: grid; grid-template-columns: 9em minmax(0, 1fr) 5em; gap: 10px; align-items: center; font-size: .8rem; }
+.barra .trilho { background: #15131f; border-radius: 999px; height: 16px; position: relative; overflow: hidden; }
+.barra .trilho i { position: absolute; top: 0; bottom: 0; border-radius: 999px; }
+.barra .v { text-align: right; font-variant-numeric: tabular-nums; }
+.md-typeset .admonition, .md-typeset details { border-radius: 12px; }
+@media (prefers-reduced-motion: reduce) { a.card { transition: none; } }
+
+.card h3 .mi { vertical-align: -4px; margin-right: 6px; color: var(--vel-ouro); }
+.md-grid { max-width: 1380px; }
+.md-typeset .figura { margin-inline: 0; }
+.md-typeset figure.figura { display: block; width: 100%; max-width: 100%; }
+.md-typeset figure.figura svg { width: 100%; }
+.md-typeset .tiers5 figure { display: block; width: auto; max-width: none; margin: 0; }
+.passo::before { font-family: Inter, sans-serif; }

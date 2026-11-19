@@ -1,0 +1,54 @@
+site_name: Velária — Wiki
+site_description: Guia do servidor MMORPG Velária
+use_directory_urls: false
+theme:
+  name: material
+  language: pt-BR
+  font:
+    text: Inter
+    code: JetBrains Mono
+  palette:
+    - scheme: slate
+      primary: custom
+      accent: custom
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.follow
+  icon:
+    logo: material/sword-cross
+extra_css:
+  - stylesheets/velaria.css
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: false
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+nav:
+  - Início: index.md
+  - Começando:
+      - Seu primeiro dia: comecando.md
+      - Linhagens: linhagens.md
+      - Ordens: ordens.md
+  - Progressão:
+      - Os 5 tiers: tiers.md
+      - Minérios: minerios.md
+      - A forja: forja.md
+  - Mundo:
+      - Economia: economia.md
+      - Receitas no jogo (EMI): receitas.md
+      - Perguntas frequentes: faq.md
