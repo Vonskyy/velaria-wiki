@@ -4,7 +4,7 @@ A Ordem é a sua classe. Cada uma tem **uma armadura própria em cada tier**, fe
 
 !!! info "Como funciona o caminho de arma"
     Você ganha 1 ponto ao entrar na Ordem e mais 1 a cada tier. Gaste na aba **Caminhos** da árvore de habilidades.
-    Lutando com a arma do **seu deus**, você ganha **+8% de dano** (ou **+1,5** em arco e magia). O nó **Devoção** dobra esse bônus.
+    Se a sua **Graça** é do deus de um desses caminhos, lutar com essa arma dá a bênção maior. Veja as [Graças divinas](#gracas-divinas).
 
 <div class="ordem" markdown>
 <div class="topo"><h2>Legião de Ferro</h2><span class="selo">Guerreiro</span><span class="selo peso-pesada">Armadura pesada</span></div>
@@ -72,3 +72,32 @@ A Ordem é a sua classe. Cada uma tem **uma armadura própria em cada tier**, fe
 <div class="tiers5"><figure><img src="img/arm/druida_t1.png" alt=""><figcaption><b>Tier 1</b>Malaquita</figcaption></figure><figure><img src="img/arm/druida_t2.png" alt=""><figcaption><b>Tier 2</b>Bronze Verdejante (liga)</figcaption></figure><figure><img src="img/arm/druida_t3.png" alt=""><figcaption><b>Tier 3</b>Ferrocerne (liga)</figcaption></figure><figure><img src="img/arm/druida_t4.png" alt=""><figcaption><b>Tier 4</b>Viridita</figcaption></figure><figure><img src="img/arm/druida_t5.png" alt=""><figcaption><b>Tier 5</b>Seiva Estelar (liga)</figcaption></figure></div>
 <div class="caminhos"><div><b>Bastão da Natureza</b><br><span>deus: Cernunnos</span></div><div><b>Foice</b><br><span>deus: Morrígan</span></div><div><b>Lança</b><br><span>deus: Atena</span></div></div>
 </div>
+
+## Graças divinas
+
+A Graça é a **4ª tela da criação do personagem**: você escolhe o deus, não é sorteio. Cada deus dá duas coisas:
+
+- **Bênção menor:** vale sempre, para qualquer Ordem.
+- **Bênção maior:** com a arma do caminho do deus na mão, **+8% de dano** (ou **+1,5** em arco, besta e magia). Só funciona se a sua Ordem usa essa arma. O nó **Devoção** dobra.
+
+Quer trocar? Use o **Tomo do Destino**: ele reabre a escolha da Graça. Também dá para escolher **Sem Graça** e seguir sem deuses.
+
+| Deus | Bênção menor (sempre) | Arma da bênção maior | Ordens que aproveitam a bênção maior |
+|---|---|---|---|
+| **Ares** (grego) | +1 de dano corpo a corpo. | Espada | Guerreiro, Paladino, Ladino, Bruxo |
+| **Susanoo** (japonês) | 5% mais rápido. | Katana | Guerreiro, Monge, Lâmina Arcana |
+| **Tyr** (nórdico) | +15% de resistência a repulsão. | Espada Longa | Guerreiro, Berserker, Lâmina Arcana |
+| **Loki** (nórdico) | Alcança criaturas meio bloco mais longe. Anda agachado 30% mais rápido. | Adagas | Mago, Ladino |
+| **Atena** (grego) | +2 de armadura. | Lança | Paladino, Sacerdote, Arqueiro, Druida, Monge |
+| **Thor** (nórdico) | +1 de resistência da armadura. | Martelo e Maça | Paladino, Sacerdote, Berserker |
+| **Perun** (eslavo) | Seus golpes empurram mais longe. | Machado de Guerra | Berserker |
+| **Morrígan** (celta) | Ataca 5% mais rápido. | Foice | Mago, Druida |
+| **Hanuman** (hindu) | Pula mais alto. Cai 3 blocos a mais sem se machucar. | Manoplas | Monge |
+| **Ártemis** (grego) | +1 de sorte (pesca e baús melhores). | Arco | Arqueiro |
+| **Ullr** (nórdico) | +4% de dano à distância. | Besta | Ladino, Arqueiro, Bruxo |
+| **Thoth** (egípcio) | +5% de poder arcano. | Cajado Arcano | Mago |
+| **Amaterasu** (japonês) | +2 de vida máxima (1 coração). | Cajado Sagrado | Sacerdote |
+| **Cernunnos** (celta) | Sobe blocos inteiros sem pular. | Bastão da Natureza | Druida |
+| **Hécate** (grego) | Fogo queima você pela metade do tempo. | Lâmina Arcana | Lâmina Arcana |
+| **Veles** (eslavo) | Fica mais tempo sem ar e nada mais rápido. Anda melhor dentro da água. | Espada e Sinais | Bruxo |
+| **Sem Graça** | Nada. Você renuncia aos deuses. | — | — |

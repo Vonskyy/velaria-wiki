@@ -23,3 +23,26 @@ A Linhagem é o seu povo. Ela vem antes da Ordem e não muda depois. Toda Linhag
 
 !!! warning "Combina com a Ordem"
     Um **Anão** paladino aguenta muito mais pancada. Um **Feérico** guerreiro morre rápido demais. Pense nos dois juntos.
+
+## Ofícios
+
+Na mesma etapa da Linhagem você escolhe o **Ofício**: a profissão do seu personagem. É um bônus pequeno, fora do combate (o combate vem da Ordem).
+
+| Ofício | O que faz |
+|---|---|
+| **Minerador** | Quebra blocos mais rápido e cava sem cansar. Enxerga melhor no escuro. |
+| **Lenhador** | Rende mais tábuas por tronco e corta madeira com as mãos. |
+| **Ferreiro** | Consertos na bigorna custam metade da experiência. A pele aguenta o calor da forja. |
+| **Cozinheiro** | Comida que você cozinha alimenta mais. Imune a fome e náusea. |
+| **Mercador** | Aldeões perto de você renovam as ofertas. Trocas saem mais baratas. |
+| **Fazendeiro** | Colheita em dobro de vez em quando e farinha de osso rende o dobro. |
+| **Herbalista** | As plantas crescem mais rápido perto de você. Imune a veneno. |
+| **Criador** | Animais que você cruza sempre nascem gêmeos. Animais abatidos rendem o dobro. |
+| **Pescador** | Mais sorte na água, nada mais rápido e começa com uma vara abençoada. |
+| **Pedreiro** | Constrói de mais longe, quebra blocos um pouco mais rápido e tem mãos calejadas. |
+| **Explorador** | Começa com bússola, relógio e mapas. Gasta menos fome e descansa nas fogueiras. |
+| **Domador** | Seus animais domados recebem os efeitos bons que você recebe. |
+| **Sem Ofício** | Nenhum talento especial. Para quem quer o caminho mais difícil. |
+
+!!! tip "Ofício e Linhagem juntos"
+    Um **Anão** minerador cava muito rápido. Um **Tritão** pescador vive na água. Combine os dois.

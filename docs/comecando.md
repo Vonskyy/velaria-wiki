@@ -18,9 +18,9 @@ Faça estes passos na ordem. Em 20 minutos você já está minerando e forjando.
 
 <div class="passos">
 <div class="passo"><div><h3>Entre e leia a introdução</h3><p>Aparece <b>VELÁRIA</b> na tela e a história no chat. Você ganha o <b>Diário do Desperto</b>: clique direito nele quando tiver dúvida.</p></div></div>
-<div class="passo"><div><h3>Escolha sua Linhagem</h3><p>É o seu povo: Humano, Anão, Elfo, Orc... Cada um tem um ponto forte e uma fraqueza. Leia a <a href="linhagens.html">tabela de Linhagens</a> antes.</p></div></div>
+<div class="passo"><div><h3>Escolha sua Linhagem e seu Ofício</h3><p>A Linhagem é o seu povo: Humano, Anão, Elfo, Orc... Cada um tem um ponto forte e uma fraqueza. Logo depois vem o <b>Ofício</b>, sua profissão: minerador, ferreiro, cozinheiro... Veja <a href="linhagens.html">Linhagens e Ofícios</a>.</p></div></div>
 <div class="passo"><div><h3>Jure a uma Ordem</h3><p>É a sua classe. Ela decide sua armadura, suas armas e seus materiais. <b>Não dá para usar o equipamento de outra Ordem.</b> Veja as <a href="ordens.html">11 Ordens</a>.</p></div></div>
-<div class="passo"><div><h3>Um deus escolhe você</h3><p>Você ganha uma <b>Graça</b>: lutando com a arma do seu deus, bate mais forte. Digite <code>/graca</code> para ver qual é.</p></div></div>
+<div class="passo"><div><h3>Escolha a Graça de um deus</h3><p>A última tela. Cada deus dá uma bênção que vale sempre e outra mais forte com a arma dele na mão. Escolha um deus que use uma arma da sua Ordem. Veja as <a href="ordens.html#gracas-divinas">Graças</a>.</p></div></div>
 <div class="passo"><div><h3>Pegue um contrato</h3><p>Na praça de Porto Alvorada, fale com o <b>Mercante de Contratos</b>. Contrato é a forma mais fácil de ganhar as primeiras moedas.</p></div></div>
 <div class="passo"><div><h3>Minere o tier 1</h3><p>Faça a picareta de cobre e procure <b>Estanho</b>, <b>Âmbar</b> e <b>Malaquita</b> na pedra. Cada minério só cai com a picareta do anterior.</p></div></div>
 <div class="passo"><div><h3>Monte sua primeira bigorna</h3><p>Agache (Shift) e clique direito numa pedra com um martelo de ferreiro: ela vira a <b>Bigorna de Pedra</b>. Veja <a href="forja.html">como forjar</a>.</p></div></div>
