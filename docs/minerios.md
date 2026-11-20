@@ -50,7 +50,7 @@ Os metais caem como **minério bruto**, igual ao ferro do Minecraft. Asse no for
 <div class="foto" markdown>![Minérios brutos](img/anim/brutos.gif)</div>
 
 !!! info "Adamantita é diferente"
-    O **Detrito Adamântico** cai como o próprio bloco. Asse no forno para virar **Chapa de Adamantita**. O resto do caminho até o lingote está em [A forja](forja.html#adamantita-a-netherite-de-velaria).
+    O **Detrito Adamântico** cai como o próprio bloco. Asse no forno para virar **Chapa de Adamantita**. O resto do caminho até o lingote está em [A forja](forja.md#adamantita-a-netherite-de-velaria).
 
 ## Lingotes e gemas
 

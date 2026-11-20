@@ -7,7 +7,7 @@
     Sua picareta é fraca demais. Cada minério precisa da picareta do minério anterior.
 
 ??? question "Fui empurrado de volta andando pelo mapa."
-    Você chegou no limite do seu tier. Veja [até onde você pode ir](tiers.html).
+    Você chegou no limite do seu tier. Veja [até onde você pode ir](tiers.md).
 
 ??? question "Não consigo entrar no Nether."
     O Nether abre no tier 3. O End, no tier 5.
@@ -16,7 +16,7 @@
     Não faz. Moeda vem de contratos, vendas ao Comprador do Rei, Elites, chefes e recompensas.
 
 ??? question "Minha bigorna não aceita o material."
-    O material é de um tier acima da bigorna. Monte a bigorna do tier certo: veja [A forja](forja.html).
+    O material é de um tier acima da bigorna. Monte a bigorna do tier certo: veja [A forja](forja.md).
 
 ??? question "Apareceu um monte de código (CSS, `#message h1`) na tela ao entrar."
     É o login da Mojang fora do ar, não o servidor. Feche o jogo, saia e entre de novo na conta Microsoft no launcher, e tente depois. Dá para ver se a Mojang caiu em help.minecraft.net.
@@ -25,7 +25,7 @@
     Seu modpack está desatualizado. Baixe a versão mais nova do `.mrpack` e importe de novo.
 
 ??? question "Sou pirata: como entro?"
-    Primeira vez: `/register senha senha`. Depois: `/login senha`. Veja [Antes de entrar](comecando.html#antes-de-entrar).
+    Primeira vez: `/register senha senha`. Depois: `/login senha`. Veja [Antes de entrar](comecando.md#antes-de-entrar).
 
 ??? question "Esqueci minha senha."
     Peça para um admin. Ele usa `/auth setpassword SeuNick nova nova`.

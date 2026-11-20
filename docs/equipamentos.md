@@ -1,6 +1,6 @@
 # Armas e armaduras
 
-Todo equipamento de Ordem sai da **bigorna** (veja [A forja](forja.html)). O desenho vem do mod da própria classe: o Guerreiro veste a armadura gótica do Epic Knights, o Mago o manto do Wizards, o Bruxo a armadura do Lobo do Witcher. O **material** pinta a peça, e os **frisos e tecidos** levam a cor da Ordem.
+Todo equipamento de Ordem sai da **bigorna** (veja [A forja](forja.md)). O desenho vem do mod da própria classe: o Guerreiro veste a armadura gótica do Epic Knights, o Mago o manto do Wizards, o Bruxo a armadura do Lobo do Witcher. O **material** pinta a peça, e os **frisos e tecidos** levam a cor da Ordem.
 
 <div class="foto" markdown>![Armaduras e armas de todas as Ordens](img/galeria/equip_v7.gif)</div>
 
