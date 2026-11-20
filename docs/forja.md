@@ -46,6 +46,10 @@ Cada tier pede uma bigorna melhor. Para montar a próxima, você precisa do min�
 <figcaption>A bigorna certa aparece na receita do EMI. Material do tier 5 só é forjado com a Base Estelar embaixo.</figcaption>
 </figure>
 
+<div class="foto" markdown>![Bigorna do Ferreiro, da Fornalha e Dracônica](img/anim/bigornas.gif)</div>
+
+As bigornas de tier alto são vivas: na **Bigorna da Fornalha** as brasas da base respiram, e na **Bigorna Dracônica** o olho e a mesa pulsam como brasa, enquanto as lágrimas de obsidiana cintilam.
+
 ## Como forjar, passo a passo
 
 <div class="passos">
@@ -69,6 +73,10 @@ Cada tier pede uma bigorna melhor. Para montar a próxima, você precisa do min�
 ## Ligas: misturando minérios
 
 33 dos 55 materiais são **ligas**: você mistura minérios na bigorna e ganha 2 lingotes de um metal novo, exclusivo da sua Ordem. A receita de cada liga está no EMI.
+
+<div class="foto" markdown>![As ligas de Velária](img/anim/ligas.gif)</div>
+
+Cada liga parece feita dos metais da receita: um metal virando o outro, pedaços cravados com a borda derretida, veios escorrendo ou camadas dobradas como aço damasco.
 
 ## Adamantita: a netherite de Velária
 

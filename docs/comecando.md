@@ -1,5 +1,19 @@
 # Seu primeiro dia
 
+## Antes de entrar
+
+<div class="passos">
+<div class="passo"><div><h3>Instale o modpack</h3><p>Baixe o arquivo <b>Velaria-MMORPG</b> (<code>.mrpack</code>) mais recente e importe no <b>Modrinth App</b> (Adicionar instância → Importar). Ele já traz todos os mods, inclusive os do CurseForge. Use sempre a versão mais nova: com versão velha o servidor recusa a entrada.</p></div></div>
+<div class="passo"><div><h3>Tem Minecraft original?</h3><p>Entre direto. O servidor reconhece sua conta e não pede senha.</p></div></div>
+<div class="passo"><div><h3>Não tem original?</h3><p>Também pode jogar. Na primeira vez, digite <code>/register suasenha suasenha</code>. Nas próximas, <code>/login suasenha</code>. Antes de logar você fica parado e sem ver o inventário. Quem entra do mesmo IP no mesmo dia não precisa digitar de novo.</p></div></div>
+<div class="passo"><div><h3>Escolha sua skin</h3><p>Sem conta original você aparece como Steve. Digite <code>/skin set NomeDeAlguém</code> com o nick de qualquer conta original para usar a skin dela.</p></div></div>
+</div>
+
+!!! warning "Guarde sua senha"
+    Se esquecer, peça para um admin redefinir. Trocar a senha dentro do jogo: `/auth changepassword nova nova`.
+
+## No jogo
+
 Faça estes passos na ordem. Em 20 minutos você já está minerando e forjando.
 
 <div class="passos">
