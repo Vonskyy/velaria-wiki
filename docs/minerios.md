@@ -3,11 +3,11 @@
 Velária tem **22 minérios novos**. Eles usam o mesmo desenho dos minérios do Minecraft, por cima da pedra onde nascem (pedra, ardósia, netherrack, basalto ou pedra do End). Procure o **veio colorido**: nos minérios raros ele brilha e se mexe.
 
 === "Mina (tiers 1, 2 e 4)"
-    <div class="foto" markdown>![Mina](img/cenas/foto_1_mina.jpg)</div>
+    <div class="foto" markdown>![Mina](img/cenas/vitrine_mina.gif)</div>
 === "Nether (tier 3)"
-    <div class="foto" markdown>![Nether](img/cenas/foto_2_nether.jpg)</div>
+    <div class="foto" markdown>![Nether](img/cenas/vitrine_nether.gif)</div>
 === "End (tier 5)"
-    <div class="foto" markdown>![End](img/cenas/foto_3_end.jpg)</div>
+    <div class="foto" markdown>![End](img/cenas/vitrine_end.gif)</div>
 
 ## Onde achar cada um
 
@@ -63,4 +63,4 @@ Os lingotes usam o molde do lingote de ferro do Minecraft. Os metais raros são 
 
 ## Todos os itens e blocos
 
-<div class="foto" markdown>![Itens e blocos](img/cenas/foto_4_itens_blocos.jpg)</div>
+<div class="foto" markdown>![Itens e blocos](img/cenas/itens_blocos.png)</div>

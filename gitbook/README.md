@@ -25,4 +25,4 @@ Mil anos depois da queda da Estrela Partida, você acorda no cais de Porto Alvor
 * **Tudo é forjado** — Armas e armaduras saem da bigorna, com qualidade de Ruim a Obra-prima.
 * **Moeda não se fabrica** — Dinheiro vem de contratos, vendas, chefes e recompensas.
 
-![Mina em primeira pessoa](img/cenas/foto_1_mina.jpg)
+![Mina em primeira pessoa](img/cenas/vitrine_mina.gif)

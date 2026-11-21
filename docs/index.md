@@ -36,4 +36,4 @@ Escolha sua Linhagem, jure a uma Ordem, forje suas armas e suba os 5 tiers de um
 <div class="card"><h3>Moeda não se fabrica</h3><p>Dinheiro vem de contratos, vendas, chefes e recompensas.</p></div>
 </div>
 
-<div class="foto" markdown>![Mina em primeira pessoa](img/cenas/foto_1_mina.jpg)</div>
+<div class="foto" markdown>![Mina em primeira pessoa](img/cenas/vitrine_mina.gif)</div>

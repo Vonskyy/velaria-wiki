@@ -4,13 +4,13 @@ Velária tem **22 minérios novos**. Eles usam o mesmo desenho dos minérios do 
 
 {% tabs %}
 {% tab title="Mina (tiers 1, 2 e 4)" %}
-![Mina](img/cenas/foto_1_mina.jpg)
+![Mina](img/cenas/vitrine_mina.gif)
 {% endtab %}
 {% tab title="Nether (tier 3)" %}
-![Nether](img/cenas/foto_2_nether.jpg)
+![Nether](img/cenas/vitrine_nether.gif)
 {% endtab %}
 {% tab title="End (tier 5)" %}
-![End](img/cenas/foto_3_end.jpg)
+![End](img/cenas/vitrine_end.gif)
 {% endtab %}
 {% endtabs %}
 
@@ -80,4 +80,4 @@ Os lingotes usam o molde do lingote de ferro do Minecraft. Os metais raros são 
 
 ## Todos os itens e blocos
 
-![Itens e blocos](img/cenas/foto_4_itens_blocos.jpg)
+![Itens e blocos](img/cenas/itens_blocos.png)
