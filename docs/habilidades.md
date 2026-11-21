@@ -13,7 +13,7 @@ Cada Ordem tem **uma árvore só** (tecla **K**), aberta no Juramento: no topo f
 | Ordem | Habilidades | Ápice | Técnica (efeito) |
 |---|---|---|---|
 | **Legião de Ferro** | Corte em X, Iaijutsu: Saque Relâmpago, Investida, Tempestade de Lâminas, Grito de Guerra | Corte Crescente: +8% de dano de ataque permanente. | Óleo de Lâmina (strength 1) |
-| **Ordem da Aurora** | Golpes Abençoados, Julgamento, Barreira, Proteção Divina, Estandarte de Batalha | Descida Radiante: +3 de armadura permanente. | Água Benta (resistance 1, regeneration 1) |
+| **Ordem da Aurora** | Golpes Abençoados, Julgamento, Barreira, Proteção Divina, Estandarte de Batalha | Imolação: +3 de armadura permanente. | Água Benta (resistance 1, regeneration 1) |
 | **Chama Branca** | Cura, Cura Relâmpago, Choque Sagrado, Círculo de Cura, Penitência | Luz Sagrada: +10% de poder de cura permanente. | Unguento Sagrado (instant health 2, regeneration 2) |
 | **Círculo Arcano** | Fluxo Arcano, Concentração, Mente Ágil, Reserva Profunda, Conjuração Veloz | Arquimago do Círculo: +10% de poder mágico e +5% de recarga. | Elixir de Mana (instant mana 3) |
 | **Irmandade do Véu** | Fatiar, Mutilar, Arremesso Estilhaçante, Passo Sombrio, Pó de Choque | Sumir: +6% de velocidade permanente. | Pó das Sombras (invisibility 1, speed 1) |
@@ -22,7 +22,7 @@ Cada Ordem tem **uma árvore só** (tecla **K**), aberta no Juramento: no topo f
 | **Escola do Lobo** | Sinal Igni, Sinal Aard, Sinal Quen, Sinal Yrden, Sinal Axii | Rodopio: +2 de resistência de armadura permanente. | Andorinha (decocção) (regeneration 1, strength 1) |
 | **Círculo do Carvalho** | Chicote de Vinhas, Disparo de Espinhos, Pele de Casca, Enredamento em Massa, Rajada de Espinhos | Ímpeto Selvagem: +4 de vida máxima permanente. | Seiva Curativa (regeneration 2, saturation 2) |
 | **Mosteiro do Punho** | Mão de Pedra, Palma Trovejante, Mão Sônica, Esfera de Nen, Asalraalaikum | Esmagamento de Belial: +8% de velocidade de ataque permanente. | Chá do Foco (haste 2, resistance 1) |
-| **Lâminas do Crepúsculo** | Onda de Chama, Onda Arcana, Passo do Vendaval, Onda de Gelo, Turbilhão de Brasas | Lança Perfurante: +6% de dano de ataque permanente. | Óleo Rúnico (strength 1, fire resistance 1) |
+| **Lâminas do Crepúsculo** | Corte Flamejante, Rajada Arcana, Transe de Batalha, Espinhos de Gelo, Lampejo Arcano | Varrida de Impacto: +6% de dano de ataque permanente. | Óleo Rúnico (strength 1, fire resistance 1) |
 
 As antigas árvores *Class Skills*, *Weapon Skills* e a do Druida foram retiradas: as habilidades delas agora entram pelas árvores das Ordens.
 
