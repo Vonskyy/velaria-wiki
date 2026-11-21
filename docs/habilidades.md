@@ -2,9 +2,10 @@
 
 Cada Ordem tem **uma árvore só** (tecla **K**), aberta no Juramento: no topo ficam os **Caminhos** (armas da Ordem; no Mago, as escolas e os Círculos) e embaixo as **habilidades**. Só a árvore da sua Ordem aparece.
 
-- **Pontos:** cada tier conquistado dá pontos, e a **XP de combate** dá o resto: cada abate rende a XP do mob + vida máxima ÷ 20 (chefes e elites valem muito). A árvore inteira custa **18 pontos**.
-- **Formato radial:** no centro fica o Juramento da Ordem (+1 de armadura) e a Técnica. Saem **3 braços, um por arma da Ordem**: Caminho (libera a arma) → +5% de dano → habilidade → +4% de velocidade de ataque → +5% de dano → habilidade → +4% de velocidade → **Maestria** (+15% de dano e +8% de velocidade). Dos lados de cada braço há Couraça (+1 de armadura) e Fôlego (+2 de vida).
-- **Foco:** os bônus de dano e velocidade de um braço **só valem com a arma daquele braço na mão**. Só a **primeira Maestria** aprendida vale. Um braço inteiro custa 16 pontos: quem foca numa arma fica bem mais forte nela do que quem divide.
+- **Pontos:** cada tier conquistado dá pontos, e a **XP de combate** dá o resto: cada abate rende a XP do mob + vida máxima ÷ 20 (chefes e elites valem muito). A progressão é longa: a XP de combate dá pontos ao longo de todo o jogo.
+- **Formato radial:** no centro ficam o Juramento (+1 de armadura) e a Técnica. Saem **3 braços, um por Caminho** (arma), sem ligação entre eles. Cada braço: Caminho → passiva → **ativa 1** → passiva → bifurca em dois ramos (**ativas 2 e 4** de um lado, **3 e 5** do outro, com passivas entre elas e uma passiva extra de lado) → os dois ramos levam à **Maestria**.
+- **5 habilidades ativas diferentes por Caminho** (75 no total), e passivas com a cara da arma: espadão = dano, vida e armadura; katana = velocidade de ataque, crítico e velocidade de passo; adaga = crítico e passo; lança = dano, alcance e firmeza; martelo = dano, resistência e firmeza; machado = dano, dano crítico e vida; arco = dano à distância, velocidade de puxar e da flecha; besta = dano à distância, crítico e recarga; cajado sagrado e natureza = cura, vida e defesa.
+- **Foco:** as passivas de um braço **só valem com a arma daquele Caminho na mão**. Só a **primeira Maestria** aprendida vale. Um braço inteiro custa cerca de 30 pontos, então quem foca numa arma fica muito mais forte nela.
 - O **Mago** mantém as escolas e os Círculos no topo e as passivas de mana embaixo.
 - **Habilidades ativas** vão para a barra de golpes acima da hotbar: botão direito no primeiro, teclas 2 a 5 nos outros.
 - **Técnica:** dá um *Tomo de Técnica*. Com ele na grade de craft (não é gasto) você fabrica o consumível da Ordem. Perdeu o tomo? Use `/tecnica`.
