@@ -3,7 +3,9 @@
 Cada Ordem tem **uma árvore só** (tecla **K**), aberta no Juramento: no topo ficam os **Caminhos** (armas da Ordem; no Mago, as escolas e os Círculos) e embaixo as **habilidades**. Só a árvore da sua Ordem aparece.
 
 - **Pontos:** cada tier conquistado dá pontos, e a **XP de combate** dá o resto: cada abate rende a XP do mob + vida máxima ÷ 20 (chefes e elites valem muito). A árvore inteira custa **18 pontos**.
-- **Formato:** raiz (1) → dois ramos (2 cada) → dois aprofundamentos (3 cada) → ápice (5), e a **Técnica** (2) no meio.
+- **Formato radial:** no centro fica o Juramento da Ordem (+1 de armadura) e a Técnica. Saem **3 braços, um por arma da Ordem**: Caminho (libera a arma) → +5% de dano → habilidade → +4% de velocidade de ataque → +5% de dano → habilidade → +4% de velocidade → **Maestria** (+15% de dano e +8% de velocidade). Dos lados de cada braço há Couraça (+1 de armadura) e Fôlego (+2 de vida).
+- **Foco:** os bônus de dano e velocidade de um braço **só valem com a arma daquele braço na mão**. Só a **primeira Maestria** aprendida vale. Um braço inteiro custa 16 pontos: quem foca numa arma fica bem mais forte nela do que quem divide.
+- O **Mago** mantém as escolas e os Círculos no topo e as passivas de mana embaixo.
 - **Habilidades ativas** vão para a barra de golpes acima da hotbar: botão direito no primeiro, teclas 2 a 5 nos outros.
 - **Técnica:** dá um *Tomo de Técnica*. Com ele na grade de craft (não é gasto) você fabrica o consumível da Ordem. Perdeu o tomo? Use `/tecnica`.
 
