@@ -2,7 +2,7 @@
 
 Todo equipamento de Ordem sai da **bigorna** (veja [A forja](forja.md)). O desenho vem dos mods de classe: o Guerreiro veste a armadura gótica do Epic Knights, o Mago o manto de mago, o Bruxo a armadura do Lobo do Witcher. O **material** pinta a peça, e os **frisos e tecidos** levam a cor da Ordem.
 
-<div class="foto" markdown>![Armaduras e armas de todas as Ordens](img/galeria/equip_v7.gif)</div>
+<div class="foto" markdown>![Armaduras e armas de todas as Ordens](img/galeria/equip_todas.gif)</div>
 
 ## Materiais que ganham vida
 
@@ -21,6 +21,8 @@ Os materiais raros têm **efeito animado** em tudo que é feito com eles: lingot
 
 ## Duas linhas de armadura por material
 
+A lista completa, com defesa e bônus de cada conjunto, está em [Lista de armaduras](armaduras.md).
+
 Cada um dos 55 materiais forja **dois conjuntos** da sua Ordem. Você escolhe o que combina com o seu jeito de jogar:
 
 <div class="cards">
@@ -28,19 +30,23 @@ Cada um dos 55 materiais forja **dois conjuntos** da sua Ordem. Você escolhe o 
 <div class="card"><h3>Linha de Ataque</h3><p>Tema novo, de outro conjunto do mod da classe. <b>15% menos defesa</b>, resistência menor, sem as penalidades da Guardiã, bônus da Ordem <b>60% maior</b> e bônus ofensivos próprios. Receita com a <b>insígnia da Ordem</b> no lugar de um lingote.</p></div>
 </div>
 
-| Ordem | Linha de Ataque | Nome das peças | Brilho |
-| --- | --- | --- | --- |
-| Guerreiro | **Gladiador** | Feroz / Ferozes | faiscas |
-| Paladino | **Portador da Luz** | Radiante / Radiantes | sagrado |
-| Sacerdote | **Absolvição** | Celeste / Celestes | sagrado |
-| Berserker | **Nortenho** | Boreal / Boreais | furia |
-| Ladino | **Manto da Morte** | Fúnebre / Fúnebres | sombra |
-| Arqueiro | **Andarilho** | Errante / Errantes | vento |
-| Bruxo | **Escola do Gato** | Ágil / Ágeis | sinais |
-| Monge | **Asceta** | Imortal / Imortais | chi |
-| Lâmina Arcana | **Destruidor** | Voraz / Vorazes | arcano |
-| Mago | **Elementalista** | Elemental / Elementais | arcano |
-| Druida | **Selvagem** | Selvagem / Selvagens | natureza |
+| Ordem | Linha de Ataque | Nome das peças | Modelo | Brilho |
+| --- | --- | --- | --- | --- |
+| Guerreiro | **Gladiador** | Feroz / Ferozes | Guerreiro (Rogues) | reflexos no metal |
+| Paladino | **Portador da Luz** | Radiante / Radiantes | Lightbringer (Armory) | pulso dourado |
+| Sacerdote | **Absolvição** | Celeste / Celestes | Absolution (Armory) | pulso dourado |
+| Berserker | **Nortenho** | Boreal / Boreais | Northling (Berserker) | brasas |
+| Ladino | **Shinobi** | Shinobi / Shinobis | Ninja (Samurai Dynasty) | veios violeta |
+| Arqueiro | **Andarilho** | Errante / Errantes | Strider (Armory) | rajada de vento |
+| Bruxo | **Escola do Gato** | Ágil / Ágeis | Escola do Gato (Witcher) | sinais que piscam |
+| Monge | **Mestre Samurai** | Xogum / Xoguns | Mestre Samurai (Samurai Dynasty) | energia que sobe |
+| Lâmina Arcana | **Ronin** | Ronin / Ronins | Samurai de duas espadas (Samurai Dynasty) | runas em onda |
+| Mago | **Elementalista** | Elemental / Elementais | Tempest (Armory) | runas em onda |
+| Druida | **Selvagem** | Selvagem / Selvagens | Wildling (Berserker) | seiva |
+
+Três linhas de Ataque têm **estilo samurai**: o **Shinobi** do Ladino, o **Mestre Samurai** do Monge (kabuto com chifres) e o **Ronin** da Lâmina Arcana (duas espadas na cintura).
+
+**Cada tier é mais intimidador:** a pintura fica mais escura e com mais contraste, e as peças ganham enfeites. No tier 3 aparecem espinhos nos ombros. No tier 4 vêm chifres (pesada), lâminas no elmo (média) ou cristais (leve), mais espinhos e joelheiras. No tier 5 entram chifres grandes, uma coroa de pontas e lâminas nas costas (ou estilhaços flutuando nos mantos).
 
 Os bônus ficam **na própria peça** e aparecem na dica do item (passe o mouse). Exemplo: o Peitoral Feroz de Estanho mostra o dano extra; o Manto Elemental mostra a mana e o poder mágico.
 
@@ -103,11 +109,14 @@ Cada linha é um tier: a linha Guardiã, a linha de Ataque e as armas da Ordem (
 
 As armas têm volume quando você segura, e as armaduras saltam do corpo em 3D.
 
-=== "Arsenal em 3D"
-    <div class="foto" markdown>![Arsenal em 3D](img/galeria/sneak_9_arsenal_3d.gif)</div>
-=== "Armaduras vestidas"
-    <div class="foto" markdown>![Armaduras vestidas: Guerreiro a Bruxo](img/galeria/armaduras_3d_a.png)</div>
-    <div class="foto" markdown>![Armaduras vestidas: Monge a Druida](img/galeria/armaduras_3d_b.png)</div>
+=== "Arsenal"
+    <div class="foto" markdown>![Armas e focos de todas as Ordens](img/galeria/armas_todas.gif)</div>
+=== "Linha Guardiã vestida"
+    <div class="foto" markdown>![Linha Guardiã vestida: Guerreiro a Bruxo](img/galeria/armaduras_3d_a.png)</div>
+    <div class="foto" markdown>![Linha Guardiã vestida: Monge a Druida](img/galeria/armaduras_3d_b.png)</div>
+=== "Linha de Ataque vestida"
+    <div class="foto" markdown>![Linha de Ataque vestida: Guerreiro a Bruxo](img/galeria/linha_ataque_3d_a.png)</div>
+    <div class="foto" markdown>![Linha de Ataque vestida: Monge a Druida](img/galeria/linha_ataque_3d_b.png)</div>
 
 ## Picaretas
 

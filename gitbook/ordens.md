@@ -1,6 +1,6 @@
 # Ordens
 
-A Ordem é a sua classe. Cada uma tem **uma armadura própria em cada tier**, feita só com os materiais dela, e **3 caminhos de arma**, cada um ligado a um deus.
+A Ordem é a sua classe. Cada uma tem **duas armaduras em cada tier** (linha Guardiã e linha de Ataque), feitas só com os materiais dela, e **3 caminhos de arma**, cada um ligado a um deus.
 
 {% hint style="info" %}
 **Como funciona o caminho de arma**
@@ -15,6 +15,8 @@ Se a sua **Graça** é do deus de um desses caminhos, lutar com essa arma dá a 
 
 O tanque de linha de frente. Aguenta pancada e segura os inimigos para o grupo.
 
+Linha de Ataque: Gladiador
+
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
 | <img src="img/arm/guerreiro_t1.png" alt="" width="96"> | <img src="img/arm/guerreiro_t2.png" alt="" width="96"> | <img src="img/arm/guerreiro_t3.png" alt="" width="96"> | <img src="img/arm/guerreiro_t4.png" alt="" width="96"> | <img src="img/arm/guerreiro_t5.png" alt="" width="96"> |
@@ -27,6 +29,8 @@ O tanque de linha de frente. Aguenta pancada e segura os inimigos para o grupo.
 `Paladino` · `Armadura pesada`
 
 Guerreiro sagrado: bate forte, protege e cura um pouco os aliados.
+
+Linha de Ataque: Portador da Luz
 
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
@@ -41,6 +45,8 @@ Guerreiro sagrado: bate forte, protege e cura um pouco os aliados.
 
 Quanto mais apanha, mais forte fica. Fúria e machado.
 
+Linha de Ataque: Nortenho
+
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
 | <img src="img/arm/berserker_t1.png" alt="" width="96"> | <img src="img/arm/berserker_t2.png" alt="" width="96"> | <img src="img/arm/berserker_t3.png" alt="" width="96"> | <img src="img/arm/berserker_t4.png" alt="" width="96"> | <img src="img/arm/berserker_t5.png" alt="" width="96"> |
@@ -53,6 +59,8 @@ Quanto mais apanha, mais forte fica. Fúria e machado.
 `Ladino` · `Armadura média`
 
 Rápido e escondido. Dano enorme pelas costas, pouca vida.
+
+Linha de Ataque: Shinobi
 
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
@@ -67,6 +75,8 @@ Rápido e escondido. Dano enorme pelas costas, pouca vida.
 
 Mata de longe com arco e besta. Fraco se o inimigo chega perto.
 
+Linha de Ataque: Andarilho
+
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
 | <img src="img/arm/arqueiro_t1.png" alt="" width="96"> | <img src="img/arm/arqueiro_t2.png" alt="" width="96"> | <img src="img/arm/arqueiro_t3.png" alt="" width="96"> | <img src="img/arm/arqueiro_t4.png" alt="" width="96"> | <img src="img/arm/arqueiro_t5.png" alt="" width="96"> |
@@ -79,6 +89,8 @@ Mata de longe com arco e besta. Fraco se o inimigo chega perto.
 `Bruxo (Witcher)` · `Armadura média`
 
 Caçador de monstros: espada, sinais mágicos e poções.
+
+Linha de Ataque: Escola do Gato
 
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
@@ -93,6 +105,8 @@ Caçador de monstros: espada, sinais mágicos e poções.
 
 Luta de mãos (manoplas) e é o mais veloz de todos.
 
+Linha de Ataque: Mestre Samurai
+
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
 | <img src="img/arm/monge_t1.png" alt="" width="96"> | <img src="img/arm/monge_t2.png" alt="" width="96"> | <img src="img/arm/monge_t3.png" alt="" width="96"> | <img src="img/arm/monge_t4.png" alt="" width="96"> | <img src="img/arm/monge_t5.png" alt="" width="96"> |
@@ -105,6 +119,8 @@ Luta de mãos (manoplas) e é o mais veloz de todos.
 `Lâmina Arcana` · `Armadura média`
 
 Mistura espada e magia: golpes que soltam feitiços.
+
+Linha de Ataque: Ronin
 
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
@@ -119,6 +135,8 @@ Mistura espada e magia: golpes que soltam feitiços.
 
 O curandeiro. Mantém o grupo vivo e queima mortos-vivos.
 
+Linha de Ataque: Absolvição
+
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
 | <img src="img/arm/sacerdote_t1.png" alt="" width="96"> | <img src="img/arm/sacerdote_t2.png" alt="" width="96"> | <img src="img/arm/sacerdote_t3.png" alt="" width="96"> | <img src="img/arm/sacerdote_t4.png" alt="" width="96"> | <img src="img/arm/sacerdote_t5.png" alt="" width="96"> |
@@ -132,6 +150,8 @@ O curandeiro. Mantém o grupo vivo e queima mortos-vivos.
 
 Iron's Spells: escolhe um dos 7 Caminhos Elementais (Arcano, Fogo, Gelo, Tempestade, Luz, Trevas, Natureza) e sobe 5 Círculos. Sem armas físicas. Muito frágil, muito poderoso.
 
+Linha de Ataque: Elementalista
+
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
 | <img src="img/arm/mago_t1.png" alt="" width="96"> | <img src="img/arm/mago_t2.png" alt="" width="96"> | <img src="img/arm/mago_t3.png" alt="" width="96"> | <img src="img/arm/mago_t4.png" alt="" width="96"> | <img src="img/arm/mago_t5.png" alt="" width="96"> |
@@ -144,6 +164,8 @@ Iron's Spells: escolhe um dos 7 Caminhos Elementais (Arcano, Fogo, Gelo, Tempest
 `Druida` · `Armadura leve`
 
 Magia da natureza: cura, raízes e invocações.
+
+Linha de Ataque: Selvagem
 
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|

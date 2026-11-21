@@ -16,6 +16,7 @@
 * [Minérios](minerios.md)
 * [A forja](forja.md)
 * [Armas e armaduras](equipamentos.md)
+* [Lista de armaduras](armaduras.md)
 * [Crafts e receitas](crafts.md)
 * [Forja de cada Ordem](forja_ordens.md)
 
