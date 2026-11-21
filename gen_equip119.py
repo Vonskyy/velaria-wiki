@@ -180,7 +180,15 @@ ATTR_NOME = {
     "spell_power:arcane": "poder arcano", "spell_power:nature": "poder da natureza", "spell_power:fire": "poder de fogo",
     "spell_power:frost": "poder de gelo", "spell_power:critical_chance": "crítico mágico",
     "spell_power:critical_damage": "dano crítico mágico",
+    "combat_roll:count": "rolamento seguido", "combat_roll:distance": "distância do rolamento",
+    "combat_roll:recharge": "recarga do rolamento",
 }
+
+
+def armaduras_kit():
+    s = open("/home/claude/kit5/kubejs/startup_scripts/mmo_conteudo.js", encoding="utf-8").read()
+    i = s.index("global.VELARIA_ARMADURAS = ") + len("global.VELARIA_ARMADURAS = ")
+    return {a["id"]: a for a in json.JSONDecoder().raw_decode(s[i:])[0]}
 
 
 def atributos_kit():
@@ -277,13 +285,16 @@ def pagina_lista():
     PESO = {"pesada": "pesada", "media": "média", "leve": "leve"}
     out = ["# Lista de armaduras", "",
            "Todos os **110 conjuntos** de Velária: 11 Ordens, 5 tiers e duas linhas por material. "
+           "Cada material tem a **linha de Defesa** (Guardiã: mais armadura, resistência e vida, mas pesa e deixa mais lento) e a **linha de Ataque** (menos defesa, mais dano ou poder mágico; leves e médias rolam mais e mais longe). Com as **4 peças do mesmo conjunto** vestidas, você ganha um efeito passivo leve da Ordem (nível II no tier 5): Defesa = sobrevivência (Resistência, Regeneração ou Velocidade), Ataque = agressão (Força, Pressa ou Velocidade). "
            "**Defesa** é a soma das 4 peças (sem qualidade da forja). Os bônus também aparecem na dica de cada peça no jogo.",
            "", '!!! tip "Para testar (operadores)"',
            "    `/provar modo` libera vestir qualquer Ordem e tier. `/provar conjunto <id>` entrega as 4 peças, "
            "`/provar ordem <ordem>` entrega a Ordem inteira e `/provar lista <ordem>` mostra os ids no chat (clique para pegar).",
            ""]
     for o in ORDENS:
-        lista = sorted([a for a in DADOS["armaduras"] if a["ordem"] == o], key=lambda a: (a["tier"], a["estilo"]))
+        KIT = armaduras_kit()
+        lista = sorted([dict(a, **{k: KIT[a["id"]][k] for k in ("def", "tough") if a["id"] in KIT})
+                        for a in DADOS["armaduras"] if a["ordem"] == o], key=lambda a: (a["tier"], a["estilo"]))
         out += [f"## {NOME[o]}", "", f"Armadura {PESO[lista[0]['arq']]}.", "",
                 "| | Tier | Linha | Peças | Defesa | Resist. | Bônus do conjunto | Id (/provar) |",
                 "| --- | --- | --- | --- | --- | --- | --- | --- |"]

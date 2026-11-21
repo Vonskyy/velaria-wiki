@@ -14,6 +14,21 @@ A Ordem é a sua classe. Cada uma tem **duas armaduras em cada tier** (**linha d
 <p class="legenda">Linha de Ataque: Gladiador</p>
 <div class="tiers5"><figure><img src="img/arm/guerreiro_t1_b.png" alt=""><figcaption><b>Tier 1</b>Gladiador</figcaption></figure><figure><img src="img/arm/guerreiro_t2_b.png" alt=""><figcaption><b>Tier 2</b>Gladiador</figcaption></figure><figure><img src="img/arm/guerreiro_t3_b.png" alt=""><figcaption><b>Tier 3</b>Gladiador</figcaption></figure><figure><img src="img/arm/guerreiro_t4_b.png" alt=""><figcaption><b>Tier 4</b>Gladiador</figcaption></figure><figure><img src="img/arm/guerreiro_t5_b.png" alt=""><figcaption><b>Tier 5</b>Gladiador</figcaption></figure></div>
 <div class="caminhos"><div><b>Espada Longa</b><br><span>deus: Tyr</span></div><div><b>Katana</b><br><span>deus: Susanoo</span></div><div><b>Espada</b><br><span>deus: Ares</span></div></div>
+<!-- extras:ini -->
+<details class="todas-armaduras" markdown><summary>Todas as armaduras que esta Ordem pode vestir</summary>
+
+- **Da própria Ordem:** linha de Defesa (Guardiã) e linha de Ataque, tiers 1 a 5 (veja acima e na [Lista de armaduras](armaduras.md)).
+- <img src="img/icones/mods/rogues__warrior_armor.png" width="28" alt=""> **Guerreiro** · Rogues & Warriors · exclusiva da Ordem
+- **Investida (Onslaught)** · Armory RPGs · exclusiva da Ordem
+- <img src="img/icones/mods/samurai__master.png" width="28" alt=""> **Samurai** · Samurai Dynasty · conjunto temático (também: lamina_arcana, monge); 4 peças dão bônus de conjunto
+- **Nórdico** · Immersive Armors (Warrior), Epic Knights: Dark Ages · conjunto temático (também: berserker); 4 peças dão bônus de conjunto
+- **Legião Antiga** · Epic Knights: Antique Legacy · conjunto temático (também: paladino); 4 peças dão bônus de conjunto
+- **Cavaleiro** · Epic Knights (+ Addon), Immersive Armors (Heavy), Fantasy Armor · conjunto temático (também: paladino); 4 peças dão bônus de conjunto
+- **Vanilla** (couro, cota de malha, ferro, ouro, diamante, netherita): livre para todos, respeitando a trava de tier.
+
+Peças de outros mods têm os atributos reduzidos e seguem a trava de tier (diamante = tier 2, netherita = tier 3, aço de dragão = tier 4): o endgame é o da Ordem.
+</details>
+<!-- extras:fim -->
 </div>
 <div class="ordem" markdown>
 <div class="topo"><h2>Ordem da Aurora</h2><span class="selo">Paladino</span><span class="selo peso-pesada">Armadura pesada</span></div>
@@ -23,6 +38,20 @@ A Ordem é a sua classe. Cada uma tem **duas armaduras em cada tier** (**linha d
 <p class="legenda">Linha de Ataque: Portador da Luz</p>
 <div class="tiers5"><figure><img src="img/arm/paladino_t1_b.png" alt=""><figcaption><b>Tier 1</b>Portador da Luz</figcaption></figure><figure><img src="img/arm/paladino_t2_b.png" alt=""><figcaption><b>Tier 2</b>Portador da Luz</figcaption></figure><figure><img src="img/arm/paladino_t3_b.png" alt=""><figcaption><b>Tier 3</b>Portador da Luz</figcaption></figure><figure><img src="img/arm/paladino_t4_b.png" alt=""><figcaption><b>Tier 4</b>Portador da Luz</figcaption></figure><figure><img src="img/arm/paladino_t5_b.png" alt=""><figcaption><b>Tier 5</b>Portador da Luz</figcaption></figure></div>
 <div class="caminhos"><div><b>Martelo e Maça</b><br><span>deus: Thor</span></div><div><b>Espada</b><br><span>deus: Ares</span></div><div><b>Lança</b><br><span>deus: Atena</span></div></div>
+<!-- extras:ini -->
+<details class="todas-armaduras" markdown><summary>Todas as armaduras que esta Ordem pode vestir</summary>
+
+- **Da própria Ordem:** linha de Defesa (Guardiã) e linha de Ataque, tiers 1 a 5 (veja acima e na [Lista de armaduras](armaduras.md)).
+- <img src="img/icones/mods/paladins__paladin_armor.png" width="28" alt=""> **Paladino e Cruzado** · Paladins & Priests · exclusiva da Ordem
+- <img src="img/icones/mods/armory__lightbringer_armor.png" width="28" alt=""> **Portador da Luz** · Armory RPGs · exclusiva da Ordem
+- **Legião Antiga** · Epic Knights: Antique Legacy · conjunto temático (também: guerreiro); 4 peças dão bônus de conjunto
+- **Sagrado** · Immersive Armors (Divine), Fantasy Armor · conjunto temático (também: sacerdote); 4 peças dão bônus de conjunto
+- **Cavaleiro** · Epic Knights (+ Addon), Immersive Armors (Heavy), Fantasy Armor · conjunto temático (também: guerreiro); 4 peças dão bônus de conjunto
+- **Vanilla** (couro, cota de malha, ferro, ouro, diamante, netherita): livre para todos, respeitando a trava de tier.
+
+Peças de outros mods têm os atributos reduzidos e seguem a trava de tier (diamante = tier 2, netherita = tier 3, aço de dragão = tier 4): o endgame é o da Ordem.
+</details>
+<!-- extras:fim -->
 </div>
 <div class="ordem" markdown>
 <div class="topo"><h2>Clã da Fúria</h2><span class="selo">Berserker</span><span class="selo peso-pesada">Armadura pesada</span></div>
@@ -32,6 +61,20 @@ A Ordem é a sua classe. Cada uma tem **duas armaduras em cada tier** (**linha d
 <p class="legenda">Linha de Ataque: Nortenho</p>
 <div class="tiers5"><figure><img src="img/arm/berserker_t1_b.png" alt=""><figcaption><b>Tier 1</b>Nortenho</figcaption></figure><figure><img src="img/arm/berserker_t2_b.png" alt=""><figcaption><b>Tier 2</b>Nortenho</figcaption></figure><figure><img src="img/arm/berserker_t3_b.png" alt=""><figcaption><b>Tier 3</b>Nortenho</figcaption></figure><figure><img src="img/arm/berserker_t4_b.png" alt=""><figcaption><b>Tier 4</b>Nortenho</figcaption></figure><figure><img src="img/arm/berserker_t5_b.png" alt=""><figcaption><b>Tier 5</b>Nortenho</figcaption></figure></div>
 <div class="caminhos"><div><b>Machado de Guerra</b><br><span>deus: Perun</span></div><div><b>Martelo e Maça</b><br><span>deus: Thor</span></div><div><b>Espada Longa</b><br><span>deus: Tyr</span></div></div>
+<!-- extras:ini -->
+<details class="todas-armaduras" markdown><summary>Todas as armaduras que esta Ordem pode vestir</summary>
+
+- **Da própria Ordem:** linha de Defesa (Guardiã) e linha de Ataque, tiers 1 a 5 (veja acima e na [Lista de armaduras](armaduras.md)).
+- <img src="img/icones/mods/berserker__warlord.png" width="28" alt=""> **Nortenho, Selvagem e Senhor da Guerra** · Berserker RPG · exclusiva da Ordem
+- **Senhor da Guerra** · Armory RPGs · exclusiva da Ordem
+- **Druzhina** · Epic Knights: Slavic Armory · conjunto temático (também: bruxo); 4 peças dão bônus de conjunto
+- **Nórdico** · Immersive Armors (Warrior), Epic Knights: Dark Ages · conjunto temático (também: guerreiro); 4 peças dão bônus de conjunto
+- **Selvagem** · Immersive Armors (Bone, Wooden) e outros · conjunto temático (também: druida, arqueiro); 4 peças dão bônus de conjunto
+- **Vanilla** (couro, cota de malha, ferro, ouro, diamante, netherita): livre para todos, respeitando a trava de tier.
+
+Peças de outros mods têm os atributos reduzidos e seguem a trava de tier (diamante = tier 2, netherita = tier 3, aço de dragão = tier 4): o endgame é o da Ordem.
+</details>
+<!-- extras:fim -->
 </div>
 <div class="ordem" markdown>
 <div class="topo"><h2>Irmandade do Véu</h2><span class="selo">Ladino</span><span class="selo peso-media">Armadura média</span></div>
@@ -41,6 +84,19 @@ A Ordem é a sua classe. Cada uma tem **duas armaduras em cada tier** (**linha d
 <p class="legenda">Linha de Ataque: Shinobi</p>
 <div class="tiers5"><figure><img src="img/arm/ladino_t1_b.png" alt=""><figcaption><b>Tier 1</b>Shinobi</figcaption></figure><figure><img src="img/arm/ladino_t2_b.png" alt=""><figcaption><b>Tier 2</b>Shinobi</figcaption></figure><figure><img src="img/arm/ladino_t3_b.png" alt=""><figcaption><b>Tier 3</b>Shinobi</figcaption></figure><figure><img src="img/arm/ladino_t4_b.png" alt=""><figcaption><b>Tier 4</b>Shinobi</figcaption></figure><figure><img src="img/arm/ladino_t5_b.png" alt=""><figcaption><b>Tier 5</b>Shinobi</figcaption></figure></div>
 <div class="caminhos"><div><b>Adagas</b><br><span>deus: Loki</span></div><div><b>Espada</b><br><span>deus: Ares</span></div><div><b>Besta</b><br><span>deus: Ullr</span></div></div>
+<!-- extras:ini -->
+<details class="todas-armaduras" markdown><summary>Todas as armaduras que esta Ordem pode vestir</summary>
+
+- **Da própria Ordem:** linha de Defesa (Guardiã) e linha de Ataque, tiers 1 a 5 (veja acima e na [Lista de armaduras](armaduras.md)).
+- <img src="img/icones/mods/rogues__rogue_armor.png" width="28" alt=""> **Ladino e Assassino** · Rogues & Warriors · exclusiva da Ordem
+- **Matador (Slayer)** · Armory RPGs · exclusiva da Ordem
+- <img src="img/icones/mods/samurai__ninja.png" width="28" alt=""> **Shinobi** · Samurai Dynasty · conjunto temático (também: monge); 4 peças dão bônus de conjunto
+- **Sombras** · Fantasy Armor e outros · conjunto temático (também: bruxo, arqueiro); 4 peças dão bônus de conjunto
+- **Vanilla** (couro, cota de malha, ferro, ouro, diamante, netherita): livre para todos, respeitando a trava de tier.
+
+Peças de outros mods têm os atributos reduzidos e seguem a trava de tier (diamante = tier 2, netherita = tier 3, aço de dragão = tier 4): o endgame é o da Ordem.
+</details>
+<!-- extras:fim -->
 </div>
 <div class="ordem" markdown>
 <div class="topo"><h2>Patrulheiros do Vento</h2><span class="selo">Arqueiro</span><span class="selo peso-media">Armadura média</span></div>
@@ -50,6 +106,19 @@ A Ordem é a sua classe. Cada uma tem **duas armaduras em cada tier** (**linha d
 <p class="legenda">Linha de Ataque: Andarilho</p>
 <div class="tiers5"><figure><img src="img/arm/arqueiro_t1_b.png" alt=""><figcaption><b>Tier 1</b>Andarilho</figcaption></figure><figure><img src="img/arm/arqueiro_t2_b.png" alt=""><figcaption><b>Tier 2</b>Andarilho</figcaption></figure><figure><img src="img/arm/arqueiro_t3_b.png" alt=""><figcaption><b>Tier 3</b>Andarilho</figcaption></figure><figure><img src="img/arm/arqueiro_t4_b.png" alt=""><figcaption><b>Tier 4</b>Andarilho</figcaption></figure><figure><img src="img/arm/arqueiro_t5_b.png" alt=""><figcaption><b>Tier 5</b>Andarilho</figcaption></figure></div>
 <div class="caminhos"><div><b>Arco</b><br><span>deus: Ártemis</span></div><div><b>Besta</b><br><span>deus: Ullr</span></div><div><b>Lança</b><br><span>deus: Atena</span></div></div>
+<!-- extras:ini -->
+<details class="todas-armaduras" markdown><summary>Todas as armaduras que esta Ordem pode vestir</summary>
+
+- **Da própria Ordem:** linha de Defesa (Guardiã) e linha de Ataque, tiers 1 a 5 (veja acima e na [Lista de armaduras](armaduras.md)).
+- <img src="img/icones/mods/rogues__assassin_armor.png" width="28" alt=""> **Arqueiro e Patrulheiro** · Archers · exclusiva da Ordem
+- <img src="img/icones/mods/armory__riftstalker_armor.png" width="28" alt=""> **Riftstalker** · Armory RPGs · exclusiva da Ordem
+- **Sombras** · Fantasy Armor e outros · conjunto temático (também: ladino, bruxo); 4 peças dão bônus de conjunto
+- **Selvagem** · Immersive Armors (Bone, Wooden) e outros · conjunto temático (também: druida, berserker); 4 peças dão bônus de conjunto
+- **Vanilla** (couro, cota de malha, ferro, ouro, diamante, netherita): livre para todos, respeitando a trava de tier.
+
+Peças de outros mods têm os atributos reduzidos e seguem a trava de tier (diamante = tier 2, netherita = tier 3, aço de dragão = tier 4): o endgame é o da Ordem.
+</details>
+<!-- extras:fim -->
 </div>
 <div class="ordem" markdown>
 <div class="topo"><h2>Escola do Lobo</h2><span class="selo">Bruxo (Witcher)</span><span class="selo peso-media">Armadura média</span></div>
@@ -59,6 +128,18 @@ A Ordem é a sua classe. Cada uma tem **duas armaduras em cada tier** (**linha d
 <p class="legenda">Linha de Ataque: Escola do Gato</p>
 <div class="tiers5"><figure><img src="img/arm/bruxo_t1_b.png" alt=""><figcaption><b>Tier 1</b>Escola do Gato</figcaption></figure><figure><img src="img/arm/bruxo_t2_b.png" alt=""><figcaption><b>Tier 2</b>Escola do Gato</figcaption></figure><figure><img src="img/arm/bruxo_t3_b.png" alt=""><figcaption><b>Tier 3</b>Escola do Gato</figcaption></figure><figure><img src="img/arm/bruxo_t4_b.png" alt=""><figcaption><b>Tier 4</b>Escola do Gato</figcaption></figure><figure><img src="img/arm/bruxo_t5_b.png" alt=""><figcaption><b>Tier 5</b>Escola do Gato</figcaption></figure></div>
 <div class="caminhos"><div><b>Espada</b><br><span>deus: Ares</span></div><div><b>Espada e Sinais</b><br><span>deus: Veles</span></div><div><b>Besta</b><br><span>deus: Ullr</span></div></div>
+<!-- extras:ini -->
+<details class="todas-armaduras" markdown><summary>Todas as armaduras que esta Ordem pode vestir</summary>
+
+- **Da própria Ordem:** linha de Defesa (Guardiã) e linha de Ataque, tiers 1 a 5 (veja acima e na [Lista de armaduras](armaduras.md)).
+- <img src="img/icones/mods/witcher__wolven.png" width="28" alt=""> **Escolas do Lobo, do Gato e outras** · Witcher RPG · exclusiva da Ordem
+- **Druzhina** · Epic Knights: Slavic Armory · conjunto temático (também: berserker); 4 peças dão bônus de conjunto
+- **Sombras** · Fantasy Armor e outros · conjunto temático (também: ladino, arqueiro); 4 peças dão bônus de conjunto
+- **Vanilla** (couro, cota de malha, ferro, ouro, diamante, netherita): livre para todos, respeitando a trava de tier.
+
+Peças de outros mods têm os atributos reduzidos e seguem a trava de tier (diamante = tier 2, netherita = tier 3, aço de dragão = tier 4): o endgame é o da Ordem.
+</details>
+<!-- extras:fim -->
 </div>
 <div class="ordem" markdown>
 <div class="topo"><h2>Mosteiro do Punho</h2><span class="selo">Monge</span><span class="selo peso-media">Armadura média</span></div>
@@ -68,6 +149,18 @@ A Ordem é a sua classe. Cada uma tem **duas armaduras em cada tier** (**linha d
 <p class="legenda">Linha de Ataque: Mestre Samurai</p>
 <div class="tiers5"><figure><img src="img/arm/monge_t1_b.png" alt=""><figcaption><b>Tier 1</b>Mestre Samurai</figcaption></figure><figure><img src="img/arm/monge_t2_b.png" alt=""><figcaption><b>Tier 2</b>Mestre Samurai</figcaption></figure><figure><img src="img/arm/monge_t3_b.png" alt=""><figcaption><b>Tier 3</b>Mestre Samurai</figcaption></figure><figure><img src="img/arm/monge_t4_b.png" alt=""><figcaption><b>Tier 4</b>Mestre Samurai</figcaption></figure><figure><img src="img/arm/monge_t5_b.png" alt=""><figcaption><b>Tier 5</b>Mestre Samurai</figcaption></figure></div>
 <div class="caminhos"><div><b>Manoplas</b><br><span>deus: Hanuman</span></div><div><b>Lança</b><br><span>deus: Atena</span></div><div><b>Katana</b><br><span>deus: Susanoo</span></div></div>
+<!-- extras:ini -->
+<details class="todas-armaduras" markdown><summary>Todas as armaduras que esta Ordem pode vestir</summary>
+
+- **Da própria Ordem:** linha de Defesa (Guardiã) e linha de Ataque, tiers 1 a 5 (veja acima e na [Lista de armaduras](armaduras.md)).
+- <img src="img/icones/mods/forcemaster__aken.png" width="28" alt=""> **Aken e Phasleb** · Forcemaster RPG · exclusiva da Ordem
+- <img src="img/icones/mods/samurai__master.png" width="28" alt=""> **Samurai** · Samurai Dynasty · conjunto temático (também: guerreiro, lamina_arcana); 4 peças dão bônus de conjunto
+- <img src="img/icones/mods/samurai__ninja.png" width="28" alt=""> **Shinobi** · Samurai Dynasty · conjunto temático (também: ladino); 4 peças dão bônus de conjunto
+- **Vanilla** (couro, cota de malha, ferro, ouro, diamante, netherita): livre para todos, respeitando a trava de tier.
+
+Peças de outros mods têm os atributos reduzidos e seguem a trava de tier (diamante = tier 2, netherita = tier 3, aço de dragão = tier 4): o endgame é o da Ordem.
+</details>
+<!-- extras:fim -->
 </div>
 <div class="ordem" markdown>
 <div class="topo"><h2>Lâminas do Crepúsculo</h2><span class="selo">Lâmina Arcana</span><span class="selo peso-media">Armadura média</span></div>
@@ -77,6 +170,16 @@ A Ordem é a sua classe. Cada uma tem **duas armaduras em cada tier** (**linha d
 <p class="legenda">Linha de Ataque: Ronin</p>
 <div class="tiers5"><figure><img src="img/arm/lamina_arcana_t1_b.png" alt=""><figcaption><b>Tier 1</b>Ronin</figcaption></figure><figure><img src="img/arm/lamina_arcana_t2_b.png" alt=""><figcaption><b>Tier 2</b>Ronin</figcaption></figure><figure><img src="img/arm/lamina_arcana_t3_b.png" alt=""><figcaption><b>Tier 3</b>Ronin</figcaption></figure><figure><img src="img/arm/lamina_arcana_t4_b.png" alt=""><figcaption><b>Tier 4</b>Ronin</figcaption></figure><figure><img src="img/arm/lamina_arcana_t5_b.png" alt=""><figcaption><b>Tier 5</b>Ronin</figcaption></figure></div>
 <div class="caminhos"><div><b>Lâmina Arcana</b><br><span>deus: Hécate</span></div><div><b>Katana</b><br><span>deus: Susanoo</span></div><div><b>Espada Longa</b><br><span>deus: Tyr</span></div></div>
+<!-- extras:ini -->
+<details class="todas-armaduras" markdown><summary>Todas as armaduras que esta Ordem pode vestir</summary>
+
+- **Da própria Ordem:** linha de Defesa (Guardiã) e linha de Ataque, tiers 1 a 5 (veja acima e na [Lista de armaduras](armaduras.md)).
+- <img src="img/icones/mods/samurai__master.png" width="28" alt=""> **Samurai** · Samurai Dynasty · conjunto temático (também: guerreiro, monge); 4 peças dão bônus de conjunto
+- **Vanilla** (couro, cota de malha, ferro, ouro, diamante, netherita): livre para todos, respeitando a trava de tier.
+
+Peças de outros mods têm os atributos reduzidos e seguem a trava de tier (diamante = tier 2, netherita = tier 3, aço de dragão = tier 4): o endgame é o da Ordem.
+</details>
+<!-- extras:fim -->
 </div>
 <div class="ordem" markdown>
 <div class="topo"><h2>Chama Branca</h2><span class="selo">Sacerdote</span><span class="selo peso-leve">Armadura leve</span></div>
@@ -86,6 +189,19 @@ A Ordem é a sua classe. Cada uma tem **duas armaduras em cada tier** (**linha d
 <p class="legenda">Linha de Ataque: Absolvição</p>
 <div class="tiers5"><figure><img src="img/arm/sacerdote_t1_b.png" alt=""><figcaption><b>Tier 1</b>Absolvição</figcaption></figure><figure><img src="img/arm/sacerdote_t2_b.png" alt=""><figcaption><b>Tier 2</b>Absolvição</figcaption></figure><figure><img src="img/arm/sacerdote_t3_b.png" alt=""><figcaption><b>Tier 3</b>Absolvição</figcaption></figure><figure><img src="img/arm/sacerdote_t4_b.png" alt=""><figcaption><b>Tier 4</b>Absolvição</figcaption></figure><figure><img src="img/arm/sacerdote_t5_b.png" alt=""><figcaption><b>Tier 5</b>Absolvição</figcaption></figure></div>
 <div class="caminhos"><div><b>Cajado Sagrado</b><br><span>deus: Amaterasu</span></div><div><b>Martelo e Maça</b><br><span>deus: Thor</span></div><div><b>Lança</b><br><span>deus: Atena</span></div></div>
+<!-- extras:ini -->
+<details class="todas-armaduras" markdown><summary>Todas as armaduras que esta Ordem pode vestir</summary>
+
+- **Da própria Ordem:** linha de Defesa (Guardiã) e linha de Ataque, tiers 1 a 5 (veja acima e na [Lista de armaduras](armaduras.md)).
+- <img src="img/icones/mods/paladins__priest_robe.png" width="28" alt=""> **Sacerdote e Prior** · Paladins & Priests · exclusiva da Ordem
+- <img src="img/icones/mods/armory__absolution_robe.png" width="28" alt=""> **Absolvição** · Armory RPGs · exclusiva da Ordem
+- **Sagrado** · Immersive Armors (Divine), Fantasy Armor · conjunto temático (também: paladino); 4 peças dão bônus de conjunto
+- **Mantos Arcanos** · Immersive Armors (Robe), Fantasy Armor · conjunto temático (também: mago, druida); 4 peças dão bônus de conjunto
+- **Vanilla** (couro, cota de malha, ferro, ouro, diamante, netherita): livre para todos, respeitando a trava de tier.
+
+Peças de outros mods têm os atributos reduzidos e seguem a trava de tier (diamante = tier 2, netherita = tier 3, aço de dragão = tier 4): o endgame é o da Ordem.
+</details>
+<!-- extras:fim -->
 </div>
 <div class="ordem" markdown>
 <div class="topo"><h2>Círculo Arcano</h2><span class="selo">Mago</span><span class="selo peso-leve">Armadura leve</span></div>
@@ -95,6 +211,17 @@ A Ordem é a sua classe. Cada uma tem **duas armaduras em cada tier** (**linha d
 <p class="legenda">Linha de Ataque: Elementalista</p>
 <div class="tiers5"><figure><img src="img/arm/mago_t1_b.png" alt=""><figcaption><b>Tier 1</b>Elementalista</figcaption></figure><figure><img src="img/arm/mago_t2_b.png" alt=""><figcaption><b>Tier 2</b>Elementalista</figcaption></figure><figure><img src="img/arm/mago_t3_b.png" alt=""><figcaption><b>Tier 3</b>Elementalista</figcaption></figure><figure><img src="img/arm/mago_t4_b.png" alt=""><figcaption><b>Tier 4</b>Elementalista</figcaption></figure><figure><img src="img/arm/mago_t5_b.png" alt=""><figcaption><b>Tier 5</b>Elementalista</figcaption></figure></div>
 <div class="caminhos"><div><b>Cajado e Orbe</b><br><span>deus: Thoth</span></div><div><b>7 Caminhos Elementais</b><br><span>aba Caminhos (K)</span></div><div><b>5 Círculos</b><br><span>1 por tier</span></div></div>
+<!-- extras:ini -->
+<details class="todas-armaduras" markdown><summary>Todas as armaduras que esta Ordem pode vestir</summary>
+
+- **Da própria Ordem:** linha de Defesa (Guardiã) e linha de Ataque, tiers 1 a 5 (veja acima e na [Lista de armaduras](armaduras.md)).
+- **Robes de escola (Piromante, Criomante, Eletromante, Cultista...)** · Iron's Spells 'n Spellbooks · exclusiva da Ordem
+- **Mantos Arcanos** · Immersive Armors (Robe), Fantasy Armor · conjunto temático (também: sacerdote, druida); 4 peças dão bônus de conjunto
+- **Vanilla** (couro, cota de malha, ferro, ouro, diamante, netherita): livre para todos, respeitando a trava de tier.
+
+Peças de outros mods têm os atributos reduzidos e seguem a trava de tier (diamante = tier 2, netherita = tier 3, aço de dragão = tier 4): o endgame é o da Ordem.
+</details>
+<!-- extras:fim -->
 </div>
 <div class="ordem" markdown>
 <div class="topo"><h2>Círculo do Carvalho</h2><span class="selo">Druida</span><span class="selo peso-leve">Armadura leve</span></div>
@@ -104,6 +231,18 @@ A Ordem é a sua classe. Cada uma tem **duas armaduras em cada tier** (**linha d
 <p class="legenda">Linha de Ataque: Selvagem</p>
 <div class="tiers5"><figure><img src="img/arm/druida_t1_b.png" alt=""><figcaption><b>Tier 1</b>Selvagem</figcaption></figure><figure><img src="img/arm/druida_t2_b.png" alt=""><figcaption><b>Tier 2</b>Selvagem</figcaption></figure><figure><img src="img/arm/druida_t3_b.png" alt=""><figcaption><b>Tier 3</b>Selvagem</figcaption></figure><figure><img src="img/arm/druida_t4_b.png" alt=""><figcaption><b>Tier 4</b>Selvagem</figcaption></figure><figure><img src="img/arm/druida_t5_b.png" alt=""><figcaption><b>Tier 5</b>Selvagem</figcaption></figure></div>
 <div class="caminhos"><div><b>Bastão da Natureza</b><br><span>deus: Cernunnos</span></div><div><b>Foice</b><br><span>deus: Morrígan</span></div><div><b>Lança</b><br><span>deus: Atena</span></div></div>
+<!-- extras:ini -->
+<details class="todas-armaduras" markdown><summary>Todas as armaduras que esta Ordem pode vestir</summary>
+
+- **Da própria Ordem:** linha de Defesa (Guardiã) e linha de Ataque, tiers 1 a 5 (veja acima e na [Lista de armaduras](armaduras.md)).
+- **Mantos de druida** · Druids · exclusiva da Ordem
+- **Mantos Arcanos** · Immersive Armors (Robe), Fantasy Armor · conjunto temático (também: mago, sacerdote); 4 peças dão bônus de conjunto
+- **Selvagem** · Immersive Armors (Bone, Wooden) e outros · conjunto temático (também: arqueiro, berserker); 4 peças dão bônus de conjunto
+- **Vanilla** (couro, cota de malha, ferro, ouro, diamante, netherita): livre para todos, respeitando a trava de tier.
+
+Peças de outros mods têm os atributos reduzidos e seguem a trava de tier (diamante = tier 2, netherita = tier 3, aço de dragão = tier 4): o endgame é o da Ordem.
+</details>
+<!-- extras:fim -->
 </div>
 
 ## Graças divinas

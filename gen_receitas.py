@@ -49,15 +49,42 @@ def nome(it):
     return NOME_ITEM.get(it) or VANILLA.get(it) or it.split(":")[1].replace("_", " ").title()
 
 
+TAGS_FIXAS = {"minecraft:wool": "minecraft:white_wool", "c:ingots/silver": "minecraft:iron_ingot",
+              "runes:fancy_stone_materials": "minecraft:polished_andesite",
+              "minecraft:stone_tool_materials": "minecraft:cobblestone", "minecraft:wooden_slabs": "minecraft:oak_planks",
+              "minecraft:wooden_fences": "minecraft:stick", "minecraft:planks": "minecraft:oak_planks",
+              "minecraft:logs": "minecraft:oak_log", "c:bookshelves": "minecraft:bookshelf", "c:glass_blocks": "minecraft:glass",
+              "c:leathers": "minecraft:leather", "c:obsidians": "minecraft:obsidian", "c:nuggets/iron": "minecraft:iron_nugget",
+              "c:raw_materials/iron": "minecraft:raw_iron", "c:gems/amethyst": "minecraft:amethyst_shard"}
+DATA_TAGS = ["/home/claude/irons/x/data", "/tmp/wz/rj/data"]
+
+
+def tag_item(t, prof=0):
+    """Resolve uma tag para um item com textura: tabela fixa, padrões c:, depois o json da tag nos mods."""
+    if t in TAGS_FIXAS:
+        return TAGS_FIXAS[t]
+    if t.startswith("c:ingots/") or t.startswith("c:gems/"):
+        base = t.split("/")[1]
+        return f"minecraft:{base}_ingot" if t.startswith("c:ingots/") and base in ("iron", "gold", "copper", "netherite") \
+            else f"minecraft:{base}" if base in ("diamond", "emerald") else TROCA.get(f"irons_spellbooks:{base}_ingot", f"irons_spellbooks:{base}")
+    ns, p = t.split(":", 1)
+    for d in DATA_TAGS:
+        for pasta in ("item", "items"):
+            f = f"{d}/{ns}/tags/{pasta}/{p}.json"
+            if os.path.exists(f) and prof < 3:
+                for v in json.load(open(f)).get("values", []):
+                    v = v["id"] if isinstance(v, dict) else v
+                    return tag_item(v[1:], prof + 1) if v.startswith("#") else v
+    return "minecraft:barrier"
+
+
 def ing(k):
     """Ingrediente de receita (item ou tag) → item com textura."""
     if isinstance(k, list):
         k = k[0]
     it = k.get("item") or k.get("tag")
     if "tag" in k:
-        it = {"minecraft:wool": "minecraft:white_wool", "c:ingots/silver": "minecraft:iron_ingot",
-              "runes:fancy_stone_materials": "minecraft:polished_andesite",
-              "minecraft:stone_tool_materials": "minecraft:cobblestone"}.get(k["tag"], "minecraft:barrier")
+        it = tag_item(k["tag"])
     return TROCA.get(it, it)
 
 
