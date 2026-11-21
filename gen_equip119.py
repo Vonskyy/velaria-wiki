@@ -291,7 +291,7 @@ def pagina_lista():
             ic = f"img/icones/arm_{a['id']}.png"
             fr = icone_frames(f"{a['id']}_chestplate")[0].resize((32, 32), Image.NEAREST)
             fr.save(f"/home/claude/wiki/docs/{ic}")
-            linha = "Guardiã" if a["estilo"] == "a" else a["linha"]
+            linha = "Defesa (Guardiã)" if a["estilo"] == "a" else a["linha"]
             nome = " · ".join(a["pecas"][p] for p in ("helmet", "chestplate", "leggings", "boots"))
             out.append(f"| <img src=\"{ic}\" width=\"32\" alt=\"\"> | {a['tier']} | {linha} | {nome} | "
                        f"{sum(a['def'])} | {a['tough']:g} | {bonus_conjunto(attrs, a) or '—'} | `{a['id']}` |")

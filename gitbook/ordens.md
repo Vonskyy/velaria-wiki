@@ -1,6 +1,6 @@
 # Ordens
 
-A Ordem é a sua classe. Cada uma tem **duas armaduras em cada tier** (linha Guardiã e linha de Ataque), feitas só com os materiais dela, e **3 caminhos de arma**, cada um ligado a um deus.
+A Ordem é a sua classe. Cada uma tem **duas armaduras em cada tier** (**linha de Defesa**, a Guardiã, e **linha de Ataque**, com o estilo próprio de cada Ordem), feitas só com os materiais dela, e **3 caminhos de arma**, cada um ligado a um deus.
 
 {% hint style="info" %}
 **Como funciona o caminho de arma**
@@ -15,7 +15,11 @@ Se a sua **Graça** é do deus de um desses caminhos, lutar com essa arma dá a 
 
 O tanque de linha de frente. Aguenta pancada e segura os inimigos para o grupo.
 
+Linha de Defesa: Guardiã
+
 Linha de Ataque: Gladiador
+
+Linha de Defesa: Guardiã
 
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
@@ -30,7 +34,11 @@ Linha de Ataque: Gladiador
 
 Guerreiro sagrado: bate forte, protege e cura um pouco os aliados.
 
+Linha de Defesa: Guardiã
+
 Linha de Ataque: Portador da Luz
+
+Linha de Defesa: Guardiã
 
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
@@ -45,7 +53,11 @@ Linha de Ataque: Portador da Luz
 
 Quanto mais apanha, mais forte fica. Fúria e machado.
 
+Linha de Defesa: Guardiã
+
 Linha de Ataque: Nortenho
+
+Linha de Defesa: Guardiã
 
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
@@ -60,7 +72,11 @@ Linha de Ataque: Nortenho
 
 Rápido e escondido. Dano enorme pelas costas, pouca vida.
 
+Linha de Defesa: Guardiã
+
 Linha de Ataque: Shinobi
+
+Linha de Defesa: Guardiã
 
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
@@ -75,7 +91,11 @@ Linha de Ataque: Shinobi
 
 Mata de longe com arco e besta. Fraco se o inimigo chega perto.
 
+Linha de Defesa: Guardiã
+
 Linha de Ataque: Andarilho
+
+Linha de Defesa: Guardiã
 
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
@@ -90,7 +110,11 @@ Linha de Ataque: Andarilho
 
 Caçador de monstros: espada, sinais mágicos e poções.
 
+Linha de Defesa: Guardiã
+
 Linha de Ataque: Escola do Gato
+
+Linha de Defesa: Guardiã
 
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
@@ -105,7 +129,11 @@ Linha de Ataque: Escola do Gato
 
 Luta de mãos (manoplas) e é o mais veloz de todos.
 
+Linha de Defesa: Guardiã
+
 Linha de Ataque: Mestre Samurai
+
+Linha de Defesa: Guardiã
 
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
@@ -120,7 +148,11 @@ Linha de Ataque: Mestre Samurai
 
 Mistura espada e magia: golpes que soltam feitiços.
 
+Linha de Defesa: Guardiã
+
 Linha de Ataque: Ronin
+
+Linha de Defesa: Guardiã
 
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
@@ -135,7 +167,11 @@ Linha de Ataque: Ronin
 
 O curandeiro. Mantém o grupo vivo e queima mortos-vivos.
 
+Linha de Defesa: Guardiã
+
 Linha de Ataque: Absolvição
+
+Linha de Defesa: Guardiã
 
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
@@ -150,7 +186,11 @@ Linha de Ataque: Absolvição
 
 Iron's Spells: escolhe um dos 7 Caminhos Elementais (Arcano, Fogo, Gelo, Tempestade, Luz, Trevas, Natureza) e sobe 5 Círculos. Sem armas físicas. Muito frágil, muito poderoso.
 
+Linha de Defesa: Guardiã
+
 Linha de Ataque: Elementalista
+
+Linha de Defesa: Guardiã
 
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
@@ -164,6 +204,8 @@ Linha de Ataque: Elementalista
 `Druida` · `Armadura leve`
 
 Magia da natureza: cura, raízes e invocações.
+
+Linha de Defesa: Guardiã
 
 Linha de Ataque: Selvagem
 
