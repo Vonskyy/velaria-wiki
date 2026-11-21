@@ -53,7 +53,8 @@ As armas têm volume quando você segura, e as armaduras saltam do corpo em 3D.
 === "Arsenal em 3D"
     <div class="foto" markdown>![Arsenal em 3D](img/galeria/sneak_9_arsenal_3d.gif)</div>
 === "Armaduras vestidas"
-    <div class="foto" markdown>![Armaduras vestidas](img/galeria/sneak_8_armaduras_3d.png)</div>
+    <div class="foto" markdown>![Armaduras vestidas: Guerreiro a Bruxo](img/galeria/armaduras_3d_a.png)</div>
+    <div class="foto" markdown>![Armaduras vestidas: Monge a Druida](img/galeria/armaduras_3d_b.png)</div>
 
 ## Picaretas
 
