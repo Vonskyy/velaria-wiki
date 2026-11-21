@@ -1,8 +1,8 @@
 # Habilidades das Ordens
 
-Cada Ordem tem a sua **árvore de habilidades** (tecla **K**). Ela abre no Juramento e só a da sua Ordem aparece.
+Cada Ordem tem **uma árvore só** (tecla **K**), aberta no Juramento: no topo ficam os **Caminhos** (armas da Ordem; no Mago, as escolas e os Círculos) e embaixo as **habilidades**. Só a árvore da sua Ordem aparece.
 
-- **Pontos:** vêm de **XP de combate**: cada abate rende a XP do mob + vida máxima ÷ 20 (chefes e elites valem muito). A árvore inteira custa **18 pontos**.
+- **Pontos:** cada tier conquistado dá pontos, e a **XP de combate** dá o resto: cada abate rende a XP do mob + vida máxima ÷ 20 (chefes e elites valem muito). A árvore inteira custa **18 pontos**.
 - **Formato:** raiz (1) → dois ramos (2 cada) → dois aprofundamentos (3 cada) → ápice (5), e a **Técnica** (2) no meio.
 - **Habilidades ativas** vão para a barra de golpes acima da hotbar: botão direito no primeiro, teclas 2 a 5 nos outros.
 - **Técnica:** dá um *Tomo de Técnica*. Com ele na grade de craft (não é gasto) você fabrica o consumível da Ordem. Perdeu o tomo? Use `/tecnica`.
