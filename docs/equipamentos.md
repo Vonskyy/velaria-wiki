@@ -58,6 +58,7 @@ Os bônus ficam **na própria peça** e aparecem na dica do item (passe o mouse)
 A partir do tier 4, nada de fora compensa mais que o equipamento da sua Ordem:
 
 - **Tiers 4 e 5 mais fortes:** mais armadura e resistência (a pesada de tier 5 chega perto do teto do jogo) e armas com **+6,5** (tier 4) e **+8** (tier 5) de dano.
+- **Aço de dragão (Ice and Fire) mais fraco na origem:** dano base 12 (era 25), durabilidade 3000 (era 8000), armadura 5/9/7/4 (era 7/12/9/6) e resistência 4 (era 6). Com a redução abaixo, uma espada de aço de dragão fica perto de uma de tier 4 da Ordem.
 - **Equipamento de outros mods reduzido:** os atributos positivos (armadura, resistência, dano, poder mágico) caem para uma fração do original. Continuam ótimos para **aparência** (slot cosmético) e decoração.
 
 | Mods | Fica com |
@@ -118,9 +119,9 @@ As armas têm volume quando você segura, e as armaduras saltam do corpo em 3D.
     <div class="foto" markdown>![Linha de Ataque vestida: Guerreiro a Bruxo](img/galeria/linha_ataque_3d_a.png)</div>
     <div class="foto" markdown>![Linha de Ataque vestida: Monge a Druida](img/galeria/linha_ataque_3d_b.png)</div>
 
-## Picaretas
+## Ferramentas
 
-As picaretas seguem a cadeia de minérios: cada uma quebra o minério seguinte. O molde é o da picareta de ferro do Minecraft.
+Picaretas, machados, **pás e enxadas** seguem a cadeia de minérios: cada material quebra o minério seguinte. São feitas na bancada, com o molde das ferramentas de ferro do Minecraft. As de Eclipsita, a última da cadeia, são as melhores ferramentas do jogo (4000 de durabilidade e a mineração mais rápida).
 
 <div class="foto" markdown>![Picaretas](img/anim/picaretas.gif)</div>
 
