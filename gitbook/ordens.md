@@ -19,8 +19,6 @@ Linha de Defesa: Guardiã
 
 Linha de Ataque: Gladiador
 
-Linha de Defesa: Guardiã
-
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
 | <img src="img/arm/guerreiro_t1.png" alt="" width="96"> | <img src="img/arm/guerreiro_t2.png" alt="" width="96"> | <img src="img/arm/guerreiro_t3.png" alt="" width="96"> | <img src="img/arm/guerreiro_t4.png" alt="" width="96"> | <img src="img/arm/guerreiro_t5.png" alt="" width="96"> |
@@ -37,8 +35,6 @@ Guerreiro sagrado: bate forte, protege e cura um pouco os aliados.
 Linha de Defesa: Guardiã
 
 Linha de Ataque: Portador da Luz
-
-Linha de Defesa: Guardiã
 
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
@@ -57,8 +53,6 @@ Linha de Defesa: Guardiã
 
 Linha de Ataque: Nortenho
 
-Linha de Defesa: Guardiã
-
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
 | <img src="img/arm/berserker_t1.png" alt="" width="96"> | <img src="img/arm/berserker_t2.png" alt="" width="96"> | <img src="img/arm/berserker_t3.png" alt="" width="96"> | <img src="img/arm/berserker_t4.png" alt="" width="96"> | <img src="img/arm/berserker_t5.png" alt="" width="96"> |
@@ -75,8 +69,6 @@ Rápido e escondido. Dano enorme pelas costas, pouca vida.
 Linha de Defesa: Guardiã
 
 Linha de Ataque: Shinobi
-
-Linha de Defesa: Guardiã
 
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
@@ -95,8 +87,6 @@ Linha de Defesa: Guardiã
 
 Linha de Ataque: Andarilho
 
-Linha de Defesa: Guardiã
-
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
 | <img src="img/arm/arqueiro_t1.png" alt="" width="96"> | <img src="img/arm/arqueiro_t2.png" alt="" width="96"> | <img src="img/arm/arqueiro_t3.png" alt="" width="96"> | <img src="img/arm/arqueiro_t4.png" alt="" width="96"> | <img src="img/arm/arqueiro_t5.png" alt="" width="96"> |
@@ -113,8 +103,6 @@ Caçador de monstros: espada, sinais mágicos e poções.
 Linha de Defesa: Guardiã
 
 Linha de Ataque: Escola do Gato
-
-Linha de Defesa: Guardiã
 
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
@@ -133,8 +121,6 @@ Linha de Defesa: Guardiã
 
 Linha de Ataque: Mestre Samurai
 
-Linha de Defesa: Guardiã
-
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
 | <img src="img/arm/monge_t1.png" alt="" width="96"> | <img src="img/arm/monge_t2.png" alt="" width="96"> | <img src="img/arm/monge_t3.png" alt="" width="96"> | <img src="img/arm/monge_t4.png" alt="" width="96"> | <img src="img/arm/monge_t5.png" alt="" width="96"> |
@@ -151,8 +137,6 @@ Mistura espada e magia: golpes que soltam feitiços.
 Linha de Defesa: Guardiã
 
 Linha de Ataque: Ronin
-
-Linha de Defesa: Guardiã
 
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
@@ -171,8 +155,6 @@ Linha de Defesa: Guardiã
 
 Linha de Ataque: Absolvição
 
-Linha de Defesa: Guardiã
-
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
 | <img src="img/arm/sacerdote_t1.png" alt="" width="96"> | <img src="img/arm/sacerdote_t2.png" alt="" width="96"> | <img src="img/arm/sacerdote_t3.png" alt="" width="96"> | <img src="img/arm/sacerdote_t4.png" alt="" width="96"> | <img src="img/arm/sacerdote_t5.png" alt="" width="96"> |
@@ -189,8 +171,6 @@ Iron's Spells: escolhe um dos 7 Caminhos Elementais (Arcano, Fogo, Gelo, Tempest
 Linha de Defesa: Guardiã
 
 Linha de Ataque: Elementalista
-
-Linha de Defesa: Guardiã
 
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
