@@ -11,30 +11,30 @@ Velária tem **22 minérios novos**. Eles usam o mesmo desenho dos minérios do 
 
 ## Onde achar cada um
 
-| | Minério | Tier | Onde | Ordem que usa |
-| --- | --- | --- | --- | --- |
-| <img src="img/minerios/ambar_ore.png" width="40"> | **Minério de Âmbar** | <span class="tag t1">1</span> | Desertos e badlands, Y 30 a 120 | Irmandade do Véu |
-| <img src="img/minerios/estanho_ore.png" width="40"> | **Minério de Estanho** | <span class="tag t1">1</span> | Overworld, Y 0 a 96 | Legião de Ferro |
-| <img src="img/minerios/malaquita_ore.png" width="40"> | **Minério de Malaquita** | <span class="tag t1">1</span> | Selvas e pântanos, Y −16 a 64 | Círculo do Carvalho |
-| <img src="img/minerios/cobalto_ore.png" width="40"> | **Minério de Cobalto** | <span class="tag t2">2</span> | Overworld, Y −16 a 48 | Ordem da Aurora |
-| <img src="img/minerios/ferro_sombrio_ore.png" width="40"> | **Minério de Ferro Sombrio** | <span class="tag t2">2</span> | Overworld fundo, Y −64 a −24 | Clã da Fúria |
-| <img src="img/minerios/glaciarita_ore.png" width="40"> | **Minério de Glaciarita** | <span class="tag t2">2</span> | Biomas gelados, Y 40 a 200 | Escola do Lobo |
-| <img src="img/minerios/mitril_ore.png" width="40"> | **Minério de Mitril** | <span class="tag t2">2</span> | Overworld, Y −48 a 16, pedra e ardósia | Patrulheiros do Vento |
-| <img src="img/minerios/onix_ore.png" width="40"> | **Minério de Ônix** | <span class="tag t2">2</span> | Overworld fundo, Y −64 a 0 | Mosteiro do Punho |
-| <img src="img/minerios/oricalco_ore.png" width="40"> | **Minério de Oricalco** | <span class="tag t2">2</span> | Montanhas, Y 80 a 220 | Legião de Ferro |
-| <img src="img/minerios/abissita_ore.png" width="40"> | **Minério de Abissita** | <span class="tag t3">3</span> | Sob os oceanos profundos, Y −40 a 0 | Escola do Lobo |
-| <img src="img/minerios/adamantita_ore.png" width="40"> | **Detrito Adamântico** | <span class="tag t3">3</span> | Nether, Y 8 a 40, nunca exposto ao ar | Círculo Arcano |
-| <img src="img/minerios/animita_ore.gif" width="40"> | **Minério de Animita** | <span class="tag t3">3</span> | Vale das Almas (Nether) | Chama Branca |
-| <img src="img/minerios/ouro_rosa_ore.png" width="40"> | **Minério de Ouro Rosa** | <span class="tag t3">3</span> | Nether inteiro, Y 10 a 117 | ingrediente de liga |
-| <img src="img/minerios/sangrita_ore.gif" width="40"> | **Minério de Sangrita** | <span class="tag t3">3</span> | Floresta Carmesim (Nether) | Lâminas do Crepúsculo |
-| <img src="img/minerios/tempestita_ore.gif" width="40"> | **Minério de Tempestita** | <span class="tag t3">3</span> | Picos das montanhas, Y 140 a 256 | Patrulheiros do Vento |
-| <img src="img/minerios/vulcanita_ore.gif" width="40"> | **Minério de Vulcanita** | <span class="tag t3">3</span> | Deltas de basalto (Nether) | Clã da Fúria |
-| <img src="img/minerios/draconita_ore.gif" width="40"> | **Minério de Draconita** | <span class="tag t4">4</span> | Fundo do mundo, Y −64 a −50, raríssimo | Mosteiro do Punho |
-| <img src="img/minerios/umbrita_ore.gif" width="40"> | **Minério de Umbrita** | <span class="tag t4">4</span> | Escuridão Antiga (deep dark) | Irmandade do Véu |
-| <img src="img/minerios/viridita_ore.gif" width="40"> | **Minério de Viridita** | <span class="tag t4">4</span> | Cavernas exuberantes, Y −60 a −20 | Círculo do Carvalho |
-| <img src="img/minerios/eclipsita_ore.gif" width="40"> | **Minério de Eclipsita** | <span class="tag t5">5</span> | Ilhas externas do End, Y 20 a 90 | Lâminas do Crepúsculo |
-| <img src="img/minerios/estelita_ore.gif" width="40"> | **Minério de Estelita** | <span class="tag t5">5</span> | Ilhas externas do End, Y 20 a 80 | Ordem da Aurora |
-| <img src="img/minerios/vacuita_ore.gif" width="40"> | **Minério de Vacuíta** | <span class="tag t5">5</span> | Ilhas externas do End, Y 10 a 60 | Círculo Arcano |
+| Minério | Vira | Nome | Onde | Picareta mínima | Comprador do Rei | Para quem |
+| --- | --- | --- | --- | --- | --- | --- |
+| <img src="img/minerios/estanho_ore.png" alt="" width="64"> | <img src="img/icones/kubejs_estanho_ingot.png" alt="" width="40"> | **Estanho** · T1 | Overworld, Y 0 a 96 | Cobre | 5 cobre | Guerreiro |
+| <img src="img/minerios/ambar_ore.png" alt="" width="64"> | <img src="img/icones/kubejs_ambar.png" alt="" width="40"> | **Âmbar** · T1 | Desertos e badlands, Y 30 a 120 | Ferro | 1 ferro | Ladino |
+| <img src="img/minerios/malaquita_ore.png" alt="" width="64"> | <img src="img/icones/kubejs_malaquita.png" alt="" width="40"> | **Malaquita** · T1 | Selvas e pântanos, Y −16 a 64 | Âmbar | 1 ferro | Druida |
+| <img src="img/minerios/mitril_ore.png" alt="" width="64"> | <img src="img/icones/kubejs_mitril_ingot.png" alt="" width="40"> | **Mitril** · T2 | Overworld, Y −48 a 16, pedra e ardósia | Malaquita | 2 ouro | Arqueiro |
+| <img src="img/minerios/cobalto_ore.png" alt="" width="64"> | <img src="img/icones/kubejs_cobalto_ingot.png" alt="" width="40"> | **Cobalto** · T2 | Overworld, Y −16 a 48 | Mitril | 2 ouro | Paladino |
+| <img src="img/minerios/glaciarita_ore.png" alt="" width="64"> | <img src="img/icones/kubejs_glaciarita.png" alt="" width="40"> | **Glaciarita** · T2 | Biomas gelados, Y 40 a 200 | Cobalto | 2 ouro | Bruxo |
+| <img src="img/minerios/ferro_sombrio_ore.png" alt="" width="64"> | <img src="img/icones/kubejs_ferro_sombrio_ingot.png" alt="" width="40"> | **Ferro Sombrio** · T2 | Overworld fundo, Y −64 a −24 | Glaciarita | 2 ouro | Berserker |
+| <img src="img/minerios/oricalco_ore.png" alt="" width="64"> | <img src="img/icones/kubejs_oricalco_ingot.png" alt="" width="40"> | **Oricalco** · T2 | Montanhas, Y 80 a 220 | Ferro Sombrio | 2 ouro | Guerreiro |
+| <img src="img/minerios/onix_ore.png" alt="" width="64"> | <img src="img/icones/kubejs_onix.png" alt="" width="40"> | **Ônix** · T2 | Overworld fundo, Y −64 a 0 | Oricalco | 2 ouro | Monge |
+| <img src="img/minerios/sangrita_ore.gif" alt="" width="64"> | <img src="img/icones/kubejs_sangrita.gif" alt="" width="40"> | **Sangrita** · T3 | Floresta Carmesim (Nether) | Diamante | 1 esmeralda | Lâmina Arcana |
+| <img src="img/minerios/animita_ore.gif" alt="" width="64"> | <img src="img/icones/kubejs_animita.gif" alt="" width="40"> | **Animita** · T3 | Vale das Almas (Nether) | Sangrita | 1 esmeralda | Sacerdote |
+| <img src="img/minerios/vulcanita_ore.gif" alt="" width="64"> | <img src="img/icones/kubejs_vulcanita.gif" alt="" width="40"> | **Vulcanita** · T3 | Deltas de basalto (Nether) | Netherite | 1 esmeralda | Berserker |
+| <img src="img/minerios/ouro_rosa_ore.png" alt="" width="64"> | <img src="img/icones/kubejs_ouro_rosa_ingot.png" alt="" width="40"> | **Ouro Rosa** · T3 | Nether inteiro, Y 10 a 117 | Netherite | 1 esmeralda | ingrediente de liga |
+| <img src="img/minerios/adamantita_ore.png" alt="" width="64"> | <img src="img/icones/kubejs_adamantita_ingot.gif" alt="" width="40"> | **Adamantita** · T3 | Nether, Y 8 a 40, nunca exposto ao ar | Vulcanita | 1 esmeralda | Mago |
+| <img src="img/minerios/abissita_ore.png" alt="" width="64"> | <img src="img/icones/kubejs_abissita_ingot.png" alt="" width="40"> | **Abissita** · T3 | Sob os oceanos profundos, Y −40 a 0 | Adamantita | 1 esmeralda | Bruxo |
+| <img src="img/minerios/tempestita_ore.gif" alt="" width="64"> | <img src="img/icones/kubejs_tempestita.gif" alt="" width="40"> | **Tempestita** · T3 | Picos das montanhas, Y 140 a 256 | Abissita | 1 esmeralda | Arqueiro |
+| <img src="img/minerios/umbrita_ore.gif" alt="" width="64"> | <img src="img/icones/kubejs_umbrita_ingot.gif" alt="" width="40"> | **Umbrita** · T4 | Escuridão Antiga (deep dark) | Tempestita | 3 esmeralda | Ladino |
+| <img src="img/minerios/draconita_ore.gif" alt="" width="64"> | <img src="img/icones/kubejs_draconita_ingot.gif" alt="" width="40"> | **Draconita** · T4 | Fundo do mundo, Y −64 a −50, raríssimo | Umbrita | 5 esmeralda | Monge |
+| <img src="img/minerios/viridita_ore.gif" alt="" width="64"> | <img src="img/icones/kubejs_viridita.gif" alt="" width="40"> | **Viridita** · T4 | Cavernas exuberantes, Y −60 a −20 | Draconita | 3 esmeralda | Druida |
+| <img src="img/minerios/estelita_ore.gif" alt="" width="64"> | <img src="img/icones/kubejs_estelita_ingot.gif" alt="" width="40"> | **Estelita** · T5 | Ilhas externas do End, Y 20 a 80 | Viridita | Não compra: só leilão | Paladino |
+| <img src="img/minerios/vacuita_ore.gif" alt="" width="64"> | <img src="img/icones/kubejs_vacuita_ingot.gif" alt="" width="40"> | **Vacuíta** · T5 | Ilhas externas do End, Y 10 a 60 | Estelita | Não compra: só leilão | Mago |
+| <img src="img/minerios/eclipsita_ore.gif" alt="" width="64"> | <img src="img/icones/kubejs_eclipsita_ingot.gif" alt="" width="40"> | **Eclipsita** · T5 | Ilhas externas do End, Y 20 a 90 | Vacuíta | Não compra: só leilão | Lâmina Arcana |
 
 !!! warning "Picareta em cadeia"
     Cada minério só cai com a **picareta do minério anterior**. Se o bloco quebrar e não soltar nada, sua picareta é fraca demais.
