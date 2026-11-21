@@ -130,14 +130,14 @@ O curandeiro. Mantém o grupo vivo e queima mortos-vivos.
 
 `Mago` · `Armadura leve`
 
-Dano mágico em área. Muito frágil, muito poderoso.
+Iron's Spells: escolhe um dos 7 Caminhos Elementais (Arcano, Fogo, Gelo, Tempestade, Luz, Trevas, Natureza) e sobe 5 Círculos. Sem armas físicas. Muito frágil, muito poderoso.
 
 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
 |---|---|---|---|---|
 | <img src="img/arm/mago_t1.png" alt="" width="96"> | <img src="img/arm/mago_t2.png" alt="" width="96"> | <img src="img/arm/mago_t3.png" alt="" width="96"> | <img src="img/arm/mago_t4.png" alt="" width="96"> | <img src="img/arm/mago_t5.png" alt="" width="96"> |
 | Âmbar Rúnico (liga) | Cobalto Rúnico (liga) | Adamantita | Umbra Arcana (liga) | Vacuíta |
 
-**Caminhos de arma:** **Cajado Arcano** (deus: Thoth) · **Adagas** (deus: Loki) · **Foice** (deus: Morrígan)
+**Caminhos de arma:** **Cajado e Orbe** (deus: Thoth) · **7 Caminhos Elementais** (aba Caminhos (K)) · **5 Círculos** (1 por tier)
 
 ## Círculo do Carvalho
 
@@ -166,15 +166,15 @@ Quer trocar? Use o **Tomo do Destino**: ele reabre a escolha da Graça. Também 
 | **Ares** (grego) | +1 de dano corpo a corpo. | Espada | Guerreiro, Paladino, Ladino, Bruxo |
 | **Susanoo** (japonês) | 5% mais rápido. | Katana | Guerreiro, Monge, Lâmina Arcana |
 | **Tyr** (nórdico) | +15% de resistência a repulsão. | Espada Longa | Guerreiro, Berserker, Lâmina Arcana |
-| **Loki** (nórdico) | Alcança criaturas meio bloco mais longe. Anda agachado 30% mais rápido. | Adagas | Mago, Ladino |
+| **Loki** (nórdico) | Alcança criaturas meio bloco mais longe. Anda agachado 30% mais rápido. | Adagas | Ladino |
 | **Atena** (grego) | +2 de armadura. | Lança | Paladino, Sacerdote, Arqueiro, Druida, Monge |
 | **Thor** (nórdico) | +1 de resistência da armadura. | Martelo e Maça | Paladino, Sacerdote, Berserker |
 | **Perun** (eslavo) | Seus golpes empurram mais longe. | Machado de Guerra | Berserker |
-| **Morrígan** (celta) | Ataca 5% mais rápido. | Foice | Mago, Druida |
+| **Morrígan** (celta) | Ataca 5% mais rápido. | Foice | Druida |
 | **Hanuman** (hindu) | Pula mais alto. Cai 3 blocos a mais sem se machucar. | Manoplas | Monge |
 | **Ártemis** (grego) | +1 de sorte (pesca e baús melhores). | Arco | Arqueiro |
 | **Ullr** (nórdico) | +4% de dano à distância. | Besta | Ladino, Arqueiro, Bruxo |
-| **Thoth** (egípcio) | +5% de poder arcano. | Cajado Arcano | Mago |
+| **Thoth** (egípcio) | +5% de poder mágico. | Cajado (Mago) | Mago (+8% de poder mágico com o cajado; o Arquimago dobra) |
 | **Amaterasu** (japonês) | +2 de vida máxima (1 coração). | Cajado Sagrado | Sacerdote |
 | **Cernunnos** (celta) | Sobe blocos inteiros sem pular. | Bastão da Natureza | Druida |
 | **Hécate** (grego) | Fogo queima você pela metade do tempo. | Lâmina Arcana | Lâmina Arcana |

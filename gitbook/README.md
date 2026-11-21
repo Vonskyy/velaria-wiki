@@ -6,6 +6,13 @@ Mil anos depois da queda da Estrela Partida, você acorda no cais de Porto Alvor
 
 <img src="img/arm/guerreiro_t5.png" alt="" width="80"> <img src="img/arm/mago_t5.png" alt="" width="80"> <img src="img/arm/berserker_t5.png" alt="" width="80"> <img src="img/arm/monge_t5.png" alt="" width="80"> <img src="img/arm/sacerdote_t5.png" alt="" width="80"> <img src="img/arm/ladino_t5.png" alt="" width="80"> <img src="img/arm/druida_t5.png" alt="" width="80">
 
+## Novidades da 1.1.19
+
+* **[Mago do Iron's Spells](magia.md)** — 7 Caminhos Elementais, 5 Círculos, livros de magia por tier. Sem armas físicas: cajado e orbe.
+* **[Duas linhas de armadura](equipamentos.md)** — Cada material forja a linha Guardiã (defesa) e uma linha de Ataque com tema novo.
+* **[Endgame das Ordens](equipamentos.md#endgame-o-equipamento-da-ordem-e-o-melhor-do-jogo)** — Tiers 4 e 5 mais fortes; equipamento de outros mods reduzido.
+* **[Efeitos visuais](equipamentos.md#efeitos-visuais)** — Armaduras com brilho animado e aura, golpes com rastro e flechas com rastro.
+
 ## Por onde começar
 
 * **[Seu primeiro dia](comecando.md)** — Passo a passo do que fazer ao entrar, sem pular nada.

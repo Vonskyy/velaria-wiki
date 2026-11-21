@@ -201,84 +201,122 @@ def pagina_forja():
     open(f"{D}/forja_ordens.md", "w", encoding="utf-8").write("\n".join(out) + "\n")
 
 
-# ================================================================ magia.md
+# ================================================================ magia.md (1.1.19: Mago do Iron's Spells)
 def pagina_magia():
-    wz = "/tmp/wz/wj/data/wizards/recipe"
-    rj = "/tmp/wz/rj/data/runes/recipe"
-
-    def rec(caminho):
-        r = json.load(open(caminho))
-        return desenhar_forma(r, f"{IMG}/{os.path.basename(caminho)[:-5]}")
+    import spec6
+    IR = "/home/claude/irons/x/data/irons_spellbooks/recipe"
 
     def fig(f, t, w=240):
         return f'<figure>{img("img/receitas/" + f, t, w)}<figcaption>{t}</figcaption></figure>'
 
+    def rec_iron(n, t, w=220):
+        try:
+            r = json.load(open(f"{IR}/{n}.json"))
+            return fig(desenhar_forma(r, f"{IMG}/iron_{n}"), t, w)
+        except Exception as e:  # noqa: BLE001
+            return f"<!-- {n}: {e} -->"
+
     out = ["# Magia", "",
-           "As magias usam o **Spell Engine**: Mago (Wizards), Sacerdote e Paladino (Paladins), Lâmina Arcana "
-           "(Spellblades) e as habilidades das outras classes. Este guia é do **Mago**, mas as regras de runas e "
-           "árvore valem para todos.", "",
-           "!!! warning \"Sem runa, sem magia\"",
-           "    Toda magia gasta **1 runa da escola dela** a cada lançamento. Se o cajado não solta nada, faltam "
-           "runas. Quem jura pelo Círculo Arcano ganha 32 runas de cada escola e uma **Bolsa de Runas**.", "",
+           "O **Mago** de Velária usa o **Iron's Spells 'n Spellbooks**: mana, livros de magia, pergaminhos e "
+           "7 Caminhos Elementais com progressão longa (5 Círculos). As outras classes mágicas (Sacerdote, Paladino, "
+           "Druida, Lâmina Arcana) continuam no **Spell Engine** com runas, no fim desta página.", "",
+           '!!! info "Sem armas físicas"',
+           "    O Mago não usa espada, adaga nem foice. Ele luta com o **cajado** (mão principal) e o **orbe** "
+           "(mão secundária): os dois dão poder mágico, mana e recarga menor. Ao jurar, você recebe o Cajado e o "
+           "Orbe de Cobre e o **Diário Frágil** (o primeiro livro de magia).", "",
            "## Como lançar", "",
-           "1. Segure uma **varinha** ou **cajado**. A barra de magias aparece no lugar da hotbar.",
-           "2. Use as teclas **1 a 9** para escolher a magia e o **botão direito** para lançar.",
-           "3. Segure **Alt** para voltar à hotbar normal sem largar o cajado.",
-           "4. Aperte **K → Class Skills** e escolha a raiz **Arcano, Fogo ou Gelo**. Cada ponto destranca uma "
-           "magia nova. Os pontos vêm de matar monstros.", "",
-           "## Runas", ""]
-    for n, t in [("arcane_rune_small_hand", "Runa Arcana (bancada)"), ("fire_rune_small_hand", "Runa de Fogo"),
-                 ("frost_rune_small_hand", "Runa de Gelo"), ("healing_rune_small_hand", "Runa de Cura"),
+           "1. Coloque o **livro de magia** no slot **Livro** dos acessórios (tecla **G**).",
+           "2. Segure **Alt esquerdo** para abrir a **roda de magias** e escolha a magia.",
+           "3. Aperte **H** para lançar a magia escolhida. Pergaminhos também lançam uma vez com o botão direito.",
+           "4. Toda magia gasta **mana** (a barra azul). Ela volta sozinha; o orbe e as peças de Mago aumentam a mana.", "",
+           "## Os 7 Caminhos Elementais", "",
+           "No primeiro ponto da aba **Caminhos** (tecla **K**) você escolhe **uma** escola. A escolha fecha as outras: "
+           "só as magias da sua escola funcionam e só elas entram no livro. Ao escolher, o Círculo te dá "
+           "**2 pergaminhos** da escola.", "",
+           "| Caminho | Escolas do Iron's | O que faz | Pergaminhos iniciais |", "| --- | --- | --- | --- |"]
+    INIC = {"arcano": "Míssil Mágico, Teleporte", "fogo": "Raio de Fogo, Investida Ardente",
+            "gelo": "Estalactite, Passo Gélido", "tempestade": "Eletrocutar, Carga",
+            "luz": "Cura, Fogo-fátuo", "trevas": "Corte de Sangue, Agulhas de Sangue",
+            "natureza": "Flecha Venenosa, Raízes"}
+    for k, e in spec6.ESCOLAS_MAGO.items():
+        ic = icone(e["icone"], 32)
+        out.append(f"| {img(ic, e['nome'], 32) if ic else ''} **{e['nome']}** | {', '.join(e['escolas'])} | "
+                   f"{e['desc']} | {INIC[k]} |")
+    out += ["", '!!! tip "Arcano: o espadachim-mago"',
+            "    O Caminho Arcano tem **Lâminas Conjuradas**, **Golpes Ecoantes**, **Corte das Sombras** e o "
+            "**Martelo Espectral**: luta corpo a corpo com magia, sem arma física. Quem quer espada de verdade "
+            "com magia joga de **Lâmina Arcana** (Spellblades).", "",
+            "## Os 5 Círculos", "",
+            "Cada tier que você sobe dá **+1 ponto** na aba Caminhos. Os pontos sobem o **Círculo** embaixo da sua "
+            "escola. O Círculo limita o **nível máximo** que as suas magias alcançam (uma fração do nível máximo de "
+            "cada feitiço) e soma **+5% de poder da escola** por Círculo.", "",
+            "| Círculo | Nível das magias | Poder da escola | Quando |", "| --- | --- | --- | --- |"]
+    for n, (nome_c, frac) in enumerate(spec6.CIRCULOS, start=1):
+        out.append(f"| **{nome_c}** | até {int(frac * 100)}% do máximo | +{5 * n}% | "
+                   + ("ao escolher o Caminho" if n == 1 else f"tier {n}") + (" · também dobra a sua Graça" if n == 5 else "")
+                   + " |")
+    out += ["", "Veja o seu Caminho e Círculo no jogo com **/caminho_mago**.", "",
+            "## Livros de magia por tier", "",
+            "Cada livro usa o material do Mago daquele tier e o livro anterior. Livros maiores têm mais espaços de magia.", ""]
+    LIV = [("copper_spell_book", "kubejs:ambar_runico_ingot", "minecraft:book", "Diário Frágil (T1)"),
+           ("iron_spell_book", "kubejs:cobalto_runico_ingot", "irons_spellbooks:copper_spell_book", "Tomo de Ferro (T2)"),
+           ("gold_spell_book", "kubejs:adamantita_ingot", "irons_spellbooks:iron_spell_book", "Livro do Aprendiz (T3)"),
+           ("diamond_spell_book", "kubejs:umbra_arcana_ingot", "irons_spellbooks:gold_spell_book", "Livro Encantado (T4)"),
+           ("netherite_spell_book", "kubejs:vacuita_ingot", "irons_spellbooks:diamond_spell_book", "Códice Ancestral (T5)")]
+    for i2, (lid, m, b, t) in enumerate(LIV):
+        r = {"type": "minecraft:crafting_shaped", "pattern": ["MPM", "PBP", "MPM"],
+             "key": {"M": {"item": m}, "P": {"item": "minecraft:paper" if i2 < 3 else "irons_spellbooks:magic_cloth"},
+                     "B": {"item": b}}, "result": {"id": f"irons_spellbooks:{lid}", "count": 1}}
+        try:
+            out.append(fig(desenhar_forma(r, f"{IMG}/mago_{lid}"), t, 220))
+        except Exception as e:  # noqa: BLE001
+            out.append(f"<!-- {lid}: {e} -->")
+    out += ["", "## Cajados e orbes", "",
+            "Forjados na **bigorna** com **Essência Arcana** (sai de monstros mágicos e do Caldeirão Alquímico). "
+            "Os números aparecem na dica do item.", "",
+            "| Tier | Cajado (mão principal) | Orbe (mão secundária) |", "| --- | --- | --- |"]
+    for t in range(1, 6):
+        c = ", ".join(f"{k.split(':')[1].replace('_', ' ')} +{v[t - 1] if 'mana' in k and 'regen' not in k else str(int(v[t - 1] * 100)) + '%'}"
+                      for k, v in spec6.MAGO_CAJADO.items() if v[t - 1])
+        o = ", ".join(f"{k.split(':')[1].replace('_', ' ')} +{v[t - 1] if k.endswith('max_mana') else str(int(v[t - 1] * 100)) + '%'}"
+                      for k, v in spec6.MAGO_ORBE.items() if v[t - 1])
+        out.append(f"| {t} | {c} | {o} |")
+    out += ["", "Receitas de cada tier na página **Forja de cada Ordem** (aba Mago).", "",
+            "## Mesa de Inscrição, Caldeirão e Bigorna Arcana", ""]
+    out.append(rec_iron("inscription_table", "Mesa de Inscrição: grava pergaminhos no livro"))
+    out.append(rec_iron("alchemist_cauldron", "Caldeirão Alquímico: tintas e poções"))
+    out.append(rec_iron("arcane_anvil", "Bigorna Arcana: orbes de melhoria"))
+    out += ["", "- **Pergaminhos repetidos** viram tinta no caldeirão; tinta + papel na mesa faz o pergaminho de uma magia "
+            "que você já tem, num nível maior.",
+            "- **Orbes de melhoria** na Bigorna Arcana aumentam o poder de uma escola, a mana ou a recarga de uma peça.",
+            "- O **Mitril** do Iron's é o **Mitril de Velária**: o minério do Iron's não nasce mais.", "",
+            "## Armaduras do Mago", "",
+            "As duas linhas de armadura leve do Mago (Guardiã e **Elementalista**) dão **mana máxima, poder mágico, "
+            "recarga menor e resistência a magia** em cada peça. As armaduras de escola do Iron's (Piromante, "
+            "Criomante...) continuam no jogo, mas com os atributos reduzidos: o endgame é o das Ordens.", "",
+            "## As outras classes mágicas (Spell Engine)", "",
+            "Sacerdote, Paladino, Druida e Lâmina Arcana usam o **Spell Engine**: segure a arma mágica, escolha a magia "
+            "com **1 a 9** e lance com o **botão direito**. Cada magia gasta **1 runa** da escola dela.", ""]
+    rj = "/tmp/wz/rj/data/runes/recipe"
+    for n, t in [("healing_rune_small_hand", "Runa de Cura"), ("arcane_rune_small_hand", "Runa Arcana"),
                  ("rune_crafting_altar", "Altar de Runas (16 por vez)"), ("pouch/small_rune_pouch", "Bolsa de Runas")]:
         try:
-            out.append(fig(rec(f"{rj}/{n}.json"), t, 200))
+            r = json.load(open(f"{rj}/{n}.json"))
+            out.append(fig(desenhar_forma(r, f"{IMG}/{os.path.basename(n)}"), t, 200))
         except Exception as e:  # noqa: BLE001
             out.append(f"<!-- {n}: {e} -->")
-    out += ["", "## Varinhas e cajados por tier", "",
-            "| Tier | Arma | Receita |", "| --- | --- | --- |"]
-    linhas = [(1, "wand_novice", "Varinha do Novato (vem no kit)"), (1, "wand_arcane", "Varinha Arcana"),
-              (1, "wand_fire", "Varinha de Fogo"), (1, "wand_frost", "Varinha de Gelo"),
-              (2, "staff_wizard", "Cajado do Mago"), (3, "staff_arcane", "Cajado Arcano"),
-              (3, "staff_fire", "Cajado de Fogo"), (3, "staff_frost", "Cajado de Gelo"),
-              (4, "staff_netherite_arcane_smithing", "Cajado Arcano de Netherite"),
-              (4, "staff_netherite_fire_smithing", "Cajado de Fogo de Netherite"),
-              (4, "staff_netherite_frost_smithing", "Cajado de Gelo de Netherite")]
-    for t, n, titulo in linhas:
-        try:
-            f = rec(f"{wz}/{n}.json")
-            out.append(f"| {t} | **{titulo}** | {img('img/receitas/' + f, titulo, 220)} |")
-        except Exception as e:  # noqa: BLE001
-            out.append(f"| {t} | **{titulo}** | veja no EMI |")
-    out += ["", "## Mantos", "",
-            "Mantos dão pouca armadura e muito **poder mágico**. Só o Círculo Arcano veste.", ""]
-    for n, t in [("wizard_robe_chest", "Manto do Mago (tiers 1–2)"), ("arcane_robe_chest", "Manto Arcano (tier 3)"),
-                 ("fire_robe_chest", "Manto de Fogo (tier 3)"), ("frost_robe_chest", "Manto de Gelo (tier 3)"),
-                 ("netherite_arcane_robe_chest_smithing", "Manto Arcano de Netherite (tier 4)")]:
-        try:
-            out.append(fig(rec(f"{wz}/{n}.json"), t, 220))
-        except Exception as e:  # noqa: BLE001
-            out.append(f"<!-- {n}: {e} -->")
-    out += ["", "No tier 5 vêm os mantos do **Armory**: Tempestade, Fumegante e Tecelã do Gelo, melhorados com o "
-            "Cristal do Conquistador (Arcano e Fogo) ou do Vencedor (Gelo) na mesa de ferraria.", "",
-            "## Tomos de magia", "",
-            "A **Mesa de Vinculação** transforma um livro no **Tomo** da sua escola. Vincule as magias do tomo "
-            "pagando níveis de XP e lápis, e equipe o tomo no slot de Livro de Magia (tecla **G**).", ""]
-    try:
-        r = json.load(open("/tmp/wz/se_binding.json"))
-        out.append(fig(desenhar_forma(r, f"{IMG}/spell_binding"), "Mesa de Vinculação", 220))
-    except Exception:  # noqa: BLE001
-        pass
     open(f"{D}/magia.md", "w", encoding="utf-8").write("\n".join(out) + "\n")
 
 
 # ================================================================ teclas.md
 def pagina_teclas():
     t = [("K", "Árvore de habilidades (Caminhos, Class Skills, Weapon Skills)"), ("J", "Livro de quests"),
-         ("G", "Acessórios (Curios): bolsa de runas, tomo, joias"), ("O", "Ver sua Linhagem, Ofício e Ordem"),
+         ("G", "Acessórios (Curios): livro de magia, bolsa de runas, joias"), ("O", "Ver sua Linhagem, Ofício e Ordem"),
          ("R", "Rolar (esquiva)"), ("Z", "Zoom (role o mouse para aproximar)"),
          ("Botões laterais do mouse", "Habilidade das espadas únicas (Simply Swords)"),
          ("Y", "Habilidade da armadura Cataclysm · Ctrl+Y capacete · Shift+Y peitoral · Alt+Y botas"),
-         ("Alt", "Segurar: volta à hotbar normal com cajado na mão"),
+         ("Alt esquerdo", "Mago: segurar abre a roda de magias (Iron's) · outras classes: volta à hotbar normal"),
+         ("H", "Mago: lançar a magia escolhida na roda"),
          ("M", "Mapa (Diorama) · Shift+M configurações · Alt+M liga/desliga o minimapa"),
          ("Ctrl+M", "Mapa do FTB Chunks: proteger terreno"), ("Ctrl+B / Shift+N", "Marcar ponto / lista de pontos"),
          ("V", "Carteira de moedas"), ("=", "Caixa eletrônico portátil"), ("\\", "Terminal de comércio"),

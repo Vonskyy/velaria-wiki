@@ -22,6 +22,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_estanho_pesada_boots.png" alt=""><figcaption><p>Botas de Estanho</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_estanho_gladiador_helmet.png" alt=""><figcaption><p>Elmo Feroz de Estanho</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_estanho_gladiador_chestplate.png" alt=""><figcaption><p>Peitoral Feroz de Estanho</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_estanho_gladiador_leggings.png" alt=""><figcaption><p>Grevas Ferozes de Estanho</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_estanho_gladiador_boots.png" alt=""><figcaption><p>Botas Ferozes de Estanho</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -41,6 +49,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 <figure><img src="img/receitas/forja_oricalco_pesada_leggings.png" alt=""><figcaption><p>Grevas de Oricalco</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_oricalco_pesada_boots.png" alt=""><figcaption><p>Botas de Oricalco</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_oricalco_gladiador_helmet.png" alt=""><figcaption><p>Elmo Feroz de Oricalco</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_oricalco_gladiador_chestplate.png" alt=""><figcaption><p>Peitoral Feroz de Oricalco</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_oricalco_gladiador_leggings.png" alt=""><figcaption><p>Grevas Ferozes de Oricalco</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_oricalco_gladiador_boots.png" alt=""><figcaption><p>Botas Ferozes de Oricalco</p></figcaption></figure>
 
 </details>
 
@@ -62,6 +78,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_aco_legionario_pesada_boots.png" alt=""><figcaption><p>Botas de Aço Legionário</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_aco_legionario_gladiador_helmet.png" alt=""><figcaption><p>Elmo Feroz de Aço Legionário</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_aco_legionario_gladiador_chestplate.png" alt=""><figcaption><p>Peitoral Feroz de Aço Legionário</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_aco_legionario_gladiador_leggings.png" alt=""><figcaption><p>Grevas Ferozes de Aço Legionário</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_aco_legionario_gladiador_boots.png" alt=""><figcaption><p>Botas Ferozes de Aço Legionário</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -82,6 +106,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_escama_legionaria_pesada_boots.gif" alt=""><figcaption><p>Botas de Escama Legionária</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_escama_legionaria_gladiador_helmet.gif" alt=""><figcaption><p>Elmo Feroz de Escama Legionária</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_escama_legionaria_gladiador_chestplate.gif" alt=""><figcaption><p>Peitoral Feroz de Escama Legionária</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_escama_legionaria_gladiador_leggings.gif" alt=""><figcaption><p>Grevas Ferozes de Escama Legionária</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_escama_legionaria_gladiador_boots.gif" alt=""><figcaption><p>Botas Ferozes de Escama Legionária</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -101,6 +133,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 <figure><img src="img/receitas/forja_aco_estelar_pesada_leggings.gif" alt=""><figcaption><p>Grevas de Aço Estelar</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_aco_estelar_pesada_boots.gif" alt=""><figcaption><p>Botas de Aço Estelar</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_aco_estelar_gladiador_helmet.gif" alt=""><figcaption><p>Elmo Feroz de Aço Estelar</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_aco_estelar_gladiador_chestplate.gif" alt=""><figcaption><p>Peitoral Feroz de Aço Estelar</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_aco_estelar_gladiador_leggings.gif" alt=""><figcaption><p>Grevas Ferozes de Aço Estelar</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_aco_estelar_gladiador_boots.gif" alt=""><figcaption><p>Botas Ferozes de Aço Estelar</p></figcaption></figure>
 
 </details>
 
@@ -124,6 +164,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_bronze_solar_pesada_boots.png" alt=""><figcaption><p>Botas de Bronze Solar</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_bronze_solar_radiante_helmet.png" alt=""><figcaption><p>Elmo Radiante de Bronze Solar</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_bronze_solar_radiante_chestplate.png" alt=""><figcaption><p>Peitoral Radiante de Bronze Solar</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_bronze_solar_radiante_leggings.png" alt=""><figcaption><p>Grevas Radiantes de Bronze Solar</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_bronze_solar_radiante_boots.png" alt=""><figcaption><p>Botas Radiantes de Bronze Solar</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -143,6 +191,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 <figure><img src="img/receitas/forja_cobalto_pesada_leggings.png" alt=""><figcaption><p>Grevas de Cobalto</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_cobalto_pesada_boots.png" alt=""><figcaption><p>Botas de Cobalto</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_cobalto_radiante_helmet.png" alt=""><figcaption><p>Elmo Radiante de Cobalto</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_cobalto_radiante_chestplate.png" alt=""><figcaption><p>Peitoral Radiante de Cobalto</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_cobalto_radiante_leggings.png" alt=""><figcaption><p>Grevas Radiantes de Cobalto</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_cobalto_radiante_boots.png" alt=""><figcaption><p>Botas Radiantes de Cobalto</p></figcaption></figure>
 
 </details>
 
@@ -164,6 +220,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_aco_auroral_pesada_boots.png" alt=""><figcaption><p>Botas de Aço Auroral</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_aco_auroral_radiante_helmet.png" alt=""><figcaption><p>Elmo Radiante de Aço Auroral</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_aco_auroral_radiante_chestplate.png" alt=""><figcaption><p>Peitoral Radiante de Aço Auroral</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_aco_auroral_radiante_leggings.png" alt=""><figcaption><p>Grevas Radiantes de Aço Auroral</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_aco_auroral_radiante_boots.png" alt=""><figcaption><p>Botas Radiantes de Aço Auroral</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -183,6 +247,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 <figure><img src="img/receitas/forja_escama_aurea_pesada_leggings.gif" alt=""><figcaption><p>Grevas de Escama Áurea</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_escama_aurea_pesada_boots.gif" alt=""><figcaption><p>Botas de Escama Áurea</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_escama_aurea_radiante_helmet.gif" alt=""><figcaption><p>Elmo Radiante de Escama Áurea</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_escama_aurea_radiante_chestplate.gif" alt=""><figcaption><p>Peitoral Radiante de Escama Áurea</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_escama_aurea_radiante_leggings.gif" alt=""><figcaption><p>Grevas Radiantes de Escama Áurea</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_escama_aurea_radiante_boots.gif" alt=""><figcaption><p>Botas Radiantes de Escama Áurea</p></figcaption></figure>
 
 </details>
 
@@ -204,6 +276,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_estelita_pesada_boots.gif" alt=""><figcaption><p>Botas de Estelita</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_estelita_radiante_helmet.gif" alt=""><figcaption><p>Elmo Radiante de Estelita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_estelita_radiante_chestplate.gif" alt=""><figcaption><p>Peitoral Radiante de Estelita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_estelita_radiante_leggings.gif" alt=""><figcaption><p>Grevas Radiantes de Estelita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_estelita_radiante_boots.gif" alt=""><figcaption><p>Botas Radiantes de Estelita</p></figcaption></figure>
+
 </details>
 
 {% endtab %}
@@ -224,6 +304,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_prata_leve_boots.png" alt=""><figcaption><p>Sapatos de Prata</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_prata_celeste_helmet.png" alt=""><figcaption><p>Capuz Celeste de Prata</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_prata_celeste_chestplate.png" alt=""><figcaption><p>Manto Celeste de Prata</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_prata_celeste_leggings.png" alt=""><figcaption><p>Calças Celestes de Prata</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_prata_celeste_boots.png" alt=""><figcaption><p>Sapatos Celestes de Prata</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -241,6 +329,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 <figure><img src="img/receitas/forja_argentea_celeste_leve_leggings.png" alt=""><figcaption><p>Calças de Argêntea Celeste</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_argentea_celeste_leve_boots.png" alt=""><figcaption><p>Sapatos de Argêntea Celeste</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_argentea_celeste_celeste_helmet.png" alt=""><figcaption><p>Capuz Celeste de Argêntea Celeste</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_argentea_celeste_celeste_chestplate.png" alt=""><figcaption><p>Manto Celeste de Argêntea Celeste</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_argentea_celeste_celeste_leggings.png" alt=""><figcaption><p>Calças Celestes de Argêntea Celeste</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_argentea_celeste_celeste_boots.png" alt=""><figcaption><p>Sapatos Celestes de Argêntea Celeste</p></figcaption></figure>
 
 </details>
 
@@ -260,6 +356,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_animita_leve_boots.gif" alt=""><figcaption><p>Sapatos de Animita</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_animita_celeste_helmet.gif" alt=""><figcaption><p>Capuz Celeste de Animita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_animita_celeste_chestplate.gif" alt=""><figcaption><p>Manto Celeste de Animita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_animita_celeste_leggings.gif" alt=""><figcaption><p>Calças Celestes de Animita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_animita_celeste_boots.gif" alt=""><figcaption><p>Sapatos Celestes de Animita</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -277,6 +381,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 <figure><img src="img/receitas/forja_chama_palida_leve_leggings.gif" alt=""><figcaption><p>Calças de Chama Pálida</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_chama_palida_leve_boots.gif" alt=""><figcaption><p>Sapatos de Chama Pálida</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_chama_palida_celeste_helmet.gif" alt=""><figcaption><p>Capuz Celeste de Chama Pálida</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_chama_palida_celeste_chestplate.gif" alt=""><figcaption><p>Manto Celeste de Chama Pálida</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_chama_palida_celeste_leggings.gif" alt=""><figcaption><p>Calças Celestes de Chama Pálida</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_chama_palida_celeste_boots.gif" alt=""><figcaption><p>Sapatos Celestes de Chama Pálida</p></figcaption></figure>
 
 </details>
 
@@ -296,6 +408,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_alva_estrela_leve_boots.gif" alt=""><figcaption><p>Sapatos de Alva Estrela</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_alva_estrela_celeste_helmet.gif" alt=""><figcaption><p>Capuz Celeste de Alva Estrela</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_alva_estrela_celeste_chestplate.gif" alt=""><figcaption><p>Manto Celeste de Alva Estrela</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_alva_estrela_celeste_leggings.gif" alt=""><figcaption><p>Calças Celestes de Alva Estrela</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_alva_estrela_celeste_boots.gif" alt=""><figcaption><p>Sapatos Celestes de Alva Estrela</p></figcaption></figure>
+
 </details>
 
 {% endtab %}
@@ -304,9 +424,9 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <summary>Tier 1: Âmbar Rúnico</summary>
 
-<figure><img src="img/receitas/forja_ambar_runico_dagger.png" alt=""><figcaption><p>Adaga de Âmbar Rúnico</p></figcaption></figure>
+<figure><img src="img/receitas/forja_ambar_runico_cajado.gif" alt=""><figcaption><p>Cajado de Âmbar Rúnico</p></figcaption></figure>
 
-<figure><img src="img/receitas/forja_ambar_runico_scythe.png" alt=""><figcaption><p>Foice de Âmbar Rúnico</p></figcaption></figure>
+<figure><img src="img/receitas/forja_ambar_runico_orbe.gif" alt=""><figcaption><p>Orbe de Âmbar Rúnico</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_ambar_runico_leve_helmet.png" alt=""><figcaption><p>Capuz de Âmbar Rúnico</p></figcaption></figure>
 
@@ -316,15 +436,23 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_ambar_runico_leve_boots.png" alt=""><figcaption><p>Sapatos de Âmbar Rúnico</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_ambar_runico_elemental_helmet.png" alt=""><figcaption><p>Capuz Elemental de Âmbar Rúnico</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_ambar_runico_elemental_chestplate.png" alt=""><figcaption><p>Manto Elemental de Âmbar Rúnico</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_ambar_runico_elemental_leggings.png" alt=""><figcaption><p>Calças Elementais de Âmbar Rúnico</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_ambar_runico_elemental_boots.png" alt=""><figcaption><p>Sapatos Elementais de Âmbar Rúnico</p></figcaption></figure>
+
 </details>
 
 <details>
 
 <summary>Tier 2: Cobalto Rúnico</summary>
 
-<figure><img src="img/receitas/forja_cobalto_runico_dagger.png" alt=""><figcaption><p>Adaga de Cobalto Rúnico</p></figcaption></figure>
+<figure><img src="img/receitas/forja_cobalto_runico_cajado.gif" alt=""><figcaption><p>Cajado de Cobalto Rúnico</p></figcaption></figure>
 
-<figure><img src="img/receitas/forja_cobalto_runico_scythe.png" alt=""><figcaption><p>Foice de Cobalto Rúnico</p></figcaption></figure>
+<figure><img src="img/receitas/forja_cobalto_runico_orbe.gif" alt=""><figcaption><p>Orbe de Cobalto Rúnico</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_cobalto_runico_leve_helmet.png" alt=""><figcaption><p>Capuz de Cobalto Rúnico</p></figcaption></figure>
 
@@ -334,15 +462,23 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_cobalto_runico_leve_boots.png" alt=""><figcaption><p>Sapatos de Cobalto Rúnico</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_cobalto_runico_elemental_helmet.png" alt=""><figcaption><p>Capuz Elemental de Cobalto Rúnico</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_cobalto_runico_elemental_chestplate.png" alt=""><figcaption><p>Manto Elemental de Cobalto Rúnico</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_cobalto_runico_elemental_leggings.png" alt=""><figcaption><p>Calças Elementais de Cobalto Rúnico</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_cobalto_runico_elemental_boots.png" alt=""><figcaption><p>Sapatos Elementais de Cobalto Rúnico</p></figcaption></figure>
+
 </details>
 
 <details>
 
 <summary>Tier 3: Adamantita</summary>
 
-<figure><img src="img/receitas/forja_adamantita_dagger.gif" alt=""><figcaption><p>Adaga de Adamantita</p></figcaption></figure>
+<figure><img src="img/receitas/forja_adamantita_cajado.gif" alt=""><figcaption><p>Cajado de Adamantita</p></figcaption></figure>
 
-<figure><img src="img/receitas/forja_adamantita_scythe.gif" alt=""><figcaption><p>Foice de Adamantita</p></figcaption></figure>
+<figure><img src="img/receitas/forja_adamantita_orbe.gif" alt=""><figcaption><p>Orbe de Adamantita</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_adamantita_leve_helmet.gif" alt=""><figcaption><p>Capuz de Adamantita</p></figcaption></figure>
 
@@ -352,15 +488,23 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_adamantita_leve_boots.gif" alt=""><figcaption><p>Sapatos de Adamantita</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_adamantita_elemental_helmet.gif" alt=""><figcaption><p>Capuz Elemental de Adamantita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_adamantita_elemental_chestplate.gif" alt=""><figcaption><p>Manto Elemental de Adamantita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_adamantita_elemental_leggings.gif" alt=""><figcaption><p>Calças Elementais de Adamantita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_adamantita_elemental_boots.gif" alt=""><figcaption><p>Sapatos Elementais de Adamantita</p></figcaption></figure>
+
 </details>
 
 <details>
 
 <summary>Tier 4: Umbra Arcana</summary>
 
-<figure><img src="img/receitas/forja_umbra_arcana_dagger.gif" alt=""><figcaption><p>Adaga de Umbra Arcana</p></figcaption></figure>
+<figure><img src="img/receitas/forja_umbra_arcana_cajado.gif" alt=""><figcaption><p>Cajado de Umbra Arcana</p></figcaption></figure>
 
-<figure><img src="img/receitas/forja_umbra_arcana_scythe.gif" alt=""><figcaption><p>Foice de Umbra Arcana</p></figcaption></figure>
+<figure><img src="img/receitas/forja_umbra_arcana_orbe.gif" alt=""><figcaption><p>Orbe de Umbra Arcana</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_umbra_arcana_leve_helmet.gif" alt=""><figcaption><p>Capuz de Umbra Arcana</p></figcaption></figure>
 
@@ -370,15 +514,23 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_umbra_arcana_leve_boots.gif" alt=""><figcaption><p>Sapatos de Umbra Arcana</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_umbra_arcana_elemental_helmet.gif" alt=""><figcaption><p>Capuz Elemental de Umbra Arcana</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_umbra_arcana_elemental_chestplate.gif" alt=""><figcaption><p>Manto Elemental de Umbra Arcana</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_umbra_arcana_elemental_leggings.gif" alt=""><figcaption><p>Calças Elementais de Umbra Arcana</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_umbra_arcana_elemental_boots.gif" alt=""><figcaption><p>Sapatos Elementais de Umbra Arcana</p></figcaption></figure>
+
 </details>
 
 <details>
 
 <summary>Tier 5: Vacuíta</summary>
 
-<figure><img src="img/receitas/forja_vacuita_dagger.gif" alt=""><figcaption><p>Adaga de Vacuíta</p></figcaption></figure>
+<figure><img src="img/receitas/forja_vacuita_cajado.gif" alt=""><figcaption><p>Cajado de Vacuíta</p></figcaption></figure>
 
-<figure><img src="img/receitas/forja_vacuita_scythe.gif" alt=""><figcaption><p>Foice de Vacuíta</p></figcaption></figure>
+<figure><img src="img/receitas/forja_vacuita_orbe.gif" alt=""><figcaption><p>Orbe de Vacuíta</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_vacuita_leve_helmet.gif" alt=""><figcaption><p>Capuz de Vacuíta</p></figcaption></figure>
 
@@ -387,6 +539,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 <figure><img src="img/receitas/forja_vacuita_leve_leggings.gif" alt=""><figcaption><p>Calças de Vacuíta</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_vacuita_leve_boots.gif" alt=""><figcaption><p>Sapatos de Vacuíta</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_vacuita_elemental_helmet.gif" alt=""><figcaption><p>Capuz Elemental de Vacuíta</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_vacuita_elemental_chestplate.gif" alt=""><figcaption><p>Manto Elemental de Vacuíta</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_vacuita_elemental_leggings.gif" alt=""><figcaption><p>Calças Elementais de Vacuíta</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_vacuita_elemental_boots.gif" alt=""><figcaption><p>Sapatos Elementais de Vacuíta</p></figcaption></figure>
 
 </details>
 
@@ -408,6 +568,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_ambar_media_boots.png" alt=""><figcaption><p>Botas de Âmbar</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_ambar_funebre_helmet.png" alt=""><figcaption><p>Capacete Fúnebre de Âmbar</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_ambar_funebre_chestplate.png" alt=""><figcaption><p>Cota Fúnebre de Âmbar</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_ambar_funebre_leggings.png" alt=""><figcaption><p>Perneiras Fúnebres de Âmbar</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_ambar_funebre_boots.png" alt=""><figcaption><p>Botas Fúnebres de Âmbar</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -425,6 +593,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 <figure><img src="img/receitas/forja_sombraco_media_leggings.png" alt=""><figcaption><p>Perneiras de Sombraço</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_sombraco_media_boots.png" alt=""><figcaption><p>Botas de Sombraço</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_sombraco_funebre_helmet.png" alt=""><figcaption><p>Capacete Fúnebre de Sombraço</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_sombraco_funebre_chestplate.png" alt=""><figcaption><p>Cota Fúnebre de Sombraço</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_sombraco_funebre_leggings.png" alt=""><figcaption><p>Perneiras Fúnebres de Sombraço</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_sombraco_funebre_boots.png" alt=""><figcaption><p>Botas Fúnebres de Sombraço</p></figcaption></figure>
 
 </details>
 
@@ -444,6 +620,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_sangue_velado_media_boots.png" alt=""><figcaption><p>Botas de Sangue Velado</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_sangue_velado_funebre_helmet.png" alt=""><figcaption><p>Capacete Fúnebre de Sangue Velado</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_sangue_velado_funebre_chestplate.png" alt=""><figcaption><p>Cota Fúnebre de Sangue Velado</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_sangue_velado_funebre_leggings.png" alt=""><figcaption><p>Perneiras Fúnebres de Sangue Velado</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_sangue_velado_funebre_boots.png" alt=""><figcaption><p>Botas Fúnebres de Sangue Velado</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -461,6 +645,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 <figure><img src="img/receitas/forja_umbrita_media_leggings.gif" alt=""><figcaption><p>Perneiras de Umbrita</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_umbrita_media_boots.gif" alt=""><figcaption><p>Botas de Umbrita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_umbrita_funebre_helmet.gif" alt=""><figcaption><p>Capacete Fúnebre de Umbrita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_umbrita_funebre_chestplate.gif" alt=""><figcaption><p>Cota Fúnebre de Umbrita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_umbrita_funebre_leggings.gif" alt=""><figcaption><p>Perneiras Fúnebres de Umbrita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_umbrita_funebre_boots.gif" alt=""><figcaption><p>Botas Fúnebres de Umbrita</p></figcaption></figure>
 
 </details>
 
@@ -480,6 +672,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_vazio_velado_media_boots.gif" alt=""><figcaption><p>Botas de Vazio Velado</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_vazio_velado_funebre_helmet.gif" alt=""><figcaption><p>Capacete Fúnebre de Vazio Velado</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_vazio_velado_funebre_chestplate.gif" alt=""><figcaption><p>Cota Fúnebre de Vazio Velado</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_vazio_velado_funebre_leggings.gif" alt=""><figcaption><p>Perneiras Fúnebres de Vazio Velado</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_vazio_velado_funebre_boots.gif" alt=""><figcaption><p>Botas Fúnebres de Vazio Velado</p></figcaption></figure>
+
 </details>
 
 {% endtab %}
@@ -498,6 +698,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_verdecobre_media_boots.png" alt=""><figcaption><p>Botas de Verdecobre</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_verdecobre_errante_helmet.png" alt=""><figcaption><p>Capacete Errante de Verdecobre</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_verdecobre_errante_chestplate.png" alt=""><figcaption><p>Cota Errante de Verdecobre</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_verdecobre_errante_leggings.png" alt=""><figcaption><p>Perneiras Errantes de Verdecobre</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_verdecobre_errante_boots.png" alt=""><figcaption><p>Botas Errantes de Verdecobre</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -513,6 +721,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 <figure><img src="img/receitas/forja_mitril_media_leggings.png" alt=""><figcaption><p>Perneiras de Mitril</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_mitril_media_boots.png" alt=""><figcaption><p>Botas de Mitril</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_mitril_errante_helmet.png" alt=""><figcaption><p>Capacete Errante de Mitril</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_mitril_errante_chestplate.png" alt=""><figcaption><p>Cota Errante de Mitril</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_mitril_errante_leggings.png" alt=""><figcaption><p>Perneiras Errantes de Mitril</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_mitril_errante_boots.png" alt=""><figcaption><p>Botas Errantes de Mitril</p></figcaption></figure>
 
 </details>
 
@@ -530,6 +746,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_tempestita_media_boots.gif" alt=""><figcaption><p>Botas de Tempestita</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_tempestita_errante_helmet.gif" alt=""><figcaption><p>Capacete Errante de Tempestita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_tempestita_errante_chestplate.gif" alt=""><figcaption><p>Cota Errante de Tempestita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_tempestita_errante_leggings.gif" alt=""><figcaption><p>Perneiras Errantes de Tempestita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_tempestita_errante_boots.gif" alt=""><figcaption><p>Botas Errantes de Tempestita</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -546,6 +770,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_asa_tempestuosa_media_boots.gif" alt=""><figcaption><p>Botas de Asa Tempestuosa</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_asa_tempestuosa_errante_helmet.gif" alt=""><figcaption><p>Capacete Errante de Asa Tempestuosa</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_asa_tempestuosa_errante_chestplate.gif" alt=""><figcaption><p>Cota Errante de Asa Tempestuosa</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_asa_tempestuosa_errante_leggings.gif" alt=""><figcaption><p>Perneiras Errantes de Asa Tempestuosa</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_asa_tempestuosa_errante_boots.gif" alt=""><figcaption><p>Botas Errantes de Asa Tempestuosa</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -561,6 +793,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 <figure><img src="img/receitas/forja_cometa_media_leggings.gif" alt=""><figcaption><p>Perneiras de Cometa</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_cometa_media_boots.gif" alt=""><figcaption><p>Botas de Cometa</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_cometa_errante_helmet.gif" alt=""><figcaption><p>Capacete Errante de Cometa</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_cometa_errante_chestplate.gif" alt=""><figcaption><p>Cota Errante de Cometa</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_cometa_errante_leggings.gif" alt=""><figcaption><p>Perneiras Errantes de Cometa</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_cometa_errante_boots.gif" alt=""><figcaption><p>Botas Errantes de Cometa</p></figcaption></figure>
 
 </details>
 
@@ -584,6 +824,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_ferro_brasa_pesada_boots.png" alt=""><figcaption><p>Botas de Ferro-Brasa</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_ferro_brasa_boreal_helmet.png" alt=""><figcaption><p>Elmo Boreal de Ferro-Brasa</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_ferro_brasa_boreal_chestplate.png" alt=""><figcaption><p>Peitoral Boreal de Ferro-Brasa</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_ferro_brasa_boreal_leggings.png" alt=""><figcaption><p>Grevas Boreais de Ferro-Brasa</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_ferro_brasa_boreal_boots.png" alt=""><figcaption><p>Botas Boreais de Ferro-Brasa</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -603,6 +851,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 <figure><img src="img/receitas/forja_ferro_sombrio_pesada_leggings.png" alt=""><figcaption><p>Grevas de Ferro Sombrio</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_ferro_sombrio_pesada_boots.png" alt=""><figcaption><p>Botas de Ferro Sombrio</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_ferro_sombrio_boreal_helmet.png" alt=""><figcaption><p>Elmo Boreal de Ferro Sombrio</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_ferro_sombrio_boreal_chestplate.png" alt=""><figcaption><p>Peitoral Boreal de Ferro Sombrio</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_ferro_sombrio_boreal_leggings.png" alt=""><figcaption><p>Grevas Boreais de Ferro Sombrio</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_ferro_sombrio_boreal_boots.png" alt=""><figcaption><p>Botas Boreais de Ferro Sombrio</p></figcaption></figure>
 
 </details>
 
@@ -624,6 +880,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_vulcanita_pesada_boots.gif" alt=""><figcaption><p>Botas de Vulcanita</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_vulcanita_boreal_helmet.gif" alt=""><figcaption><p>Elmo Boreal de Vulcanita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_vulcanita_boreal_chestplate.gif" alt=""><figcaption><p>Peitoral Boreal de Vulcanita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_vulcanita_boreal_leggings.gif" alt=""><figcaption><p>Grevas Boreais de Vulcanita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_vulcanita_boreal_boots.gif" alt=""><figcaption><p>Botas Boreais de Vulcanita</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -643,6 +907,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 <figure><img src="img/receitas/forja_sangue_dragao_pesada_leggings.gif" alt=""><figcaption><p>Grevas de Sangue de Dragão</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_sangue_dragao_pesada_boots.gif" alt=""><figcaption><p>Botas de Sangue de Dragão</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_sangue_dragao_boreal_helmet.gif" alt=""><figcaption><p>Elmo Boreal de Sangue de Dragão</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_sangue_dragao_boreal_chestplate.gif" alt=""><figcaption><p>Peitoral Boreal de Sangue de Dragão</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_sangue_dragao_boreal_leggings.gif" alt=""><figcaption><p>Grevas Boreais de Sangue de Dragão</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_sangue_dragao_boreal_boots.gif" alt=""><figcaption><p>Botas Boreais de Sangue de Dragão</p></figcaption></figure>
 
 </details>
 
@@ -664,6 +936,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_supernova_pesada_boots.gif" alt=""><figcaption><p>Botas de Supernova</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_supernova_boreal_helmet.gif" alt=""><figcaption><p>Elmo Boreal de Supernova</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_supernova_boreal_chestplate.gif" alt=""><figcaption><p>Peitoral Boreal de Supernova</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_supernova_boreal_leggings.gif" alt=""><figcaption><p>Grevas Boreais de Supernova</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_supernova_boreal_boots.gif" alt=""><figcaption><p>Botas Boreais de Supernova</p></figcaption></figure>
+
 </details>
 
 {% endtab %}
@@ -682,6 +962,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_prata_lupina_media_boots.png" alt=""><figcaption><p>Botas de Prata Lupina</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_prata_lupina_agil_helmet.png" alt=""><figcaption><p>Capacete Ágil de Prata Lupina</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_prata_lupina_agil_chestplate.png" alt=""><figcaption><p>Cota Ágil de Prata Lupina</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_prata_lupina_agil_leggings.png" alt=""><figcaption><p>Perneiras Ágeis de Prata Lupina</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_prata_lupina_agil_boots.png" alt=""><figcaption><p>Botas Ágeis de Prata Lupina</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -697,6 +985,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 <figure><img src="img/receitas/forja_glaciarita_media_leggings.png" alt=""><figcaption><p>Perneiras de Glaciarita</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_glaciarita_media_boots.png" alt=""><figcaption><p>Botas de Glaciarita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_glaciarita_agil_helmet.png" alt=""><figcaption><p>Capacete Ágil de Glaciarita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_glaciarita_agil_chestplate.png" alt=""><figcaption><p>Cota Ágil de Glaciarita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_glaciarita_agil_leggings.png" alt=""><figcaption><p>Perneiras Ágeis de Glaciarita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_glaciarita_agil_boots.png" alt=""><figcaption><p>Botas Ágeis de Glaciarita</p></figcaption></figure>
 
 </details>
 
@@ -714,6 +1010,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_abissita_media_boots.png" alt=""><figcaption><p>Botas de Abissita</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_abissita_agil_helmet.png" alt=""><figcaption><p>Capacete Ágil de Abissita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_abissita_agil_chestplate.png" alt=""><figcaption><p>Cota Ágil de Abissita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_abissita_agil_leggings.png" alt=""><figcaption><p>Perneiras Ágeis de Abissita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_abissita_agil_boots.png" alt=""><figcaption><p>Botas Ágeis de Abissita</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -730,6 +1034,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_lobo_sombra_media_boots.gif" alt=""><figcaption><p>Botas de Lobo-Sombra</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_lobo_sombra_agil_helmet.gif" alt=""><figcaption><p>Capacete Ágil de Lobo-Sombra</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_lobo_sombra_agil_chestplate.gif" alt=""><figcaption><p>Cota Ágil de Lobo-Sombra</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_lobo_sombra_agil_leggings.gif" alt=""><figcaption><p>Perneiras Ágeis de Lobo-Sombra</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_lobo_sombra_agil_boots.gif" alt=""><figcaption><p>Botas Ágeis de Lobo-Sombra</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -745,6 +1057,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 <figure><img src="img/receitas/forja_eclipse_lupino_media_leggings.gif" alt=""><figcaption><p>Perneiras de Eclipse Lupino</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_eclipse_lupino_media_boots.gif" alt=""><figcaption><p>Botas de Eclipse Lupino</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_eclipse_lupino_agil_helmet.gif" alt=""><figcaption><p>Capacete Ágil de Eclipse Lupino</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_eclipse_lupino_agil_chestplate.gif" alt=""><figcaption><p>Cota Ágil de Eclipse Lupino</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_eclipse_lupino_agil_leggings.gif" alt=""><figcaption><p>Perneiras Ágeis de Eclipse Lupino</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_eclipse_lupino_agil_boots.gif" alt=""><figcaption><p>Botas Ágeis de Eclipse Lupino</p></figcaption></figure>
 
 </details>
 
@@ -766,6 +1086,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_malaquita_leve_boots.png" alt=""><figcaption><p>Sapatos de Malaquita</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_malaquita_selvagem_helmet.png" alt=""><figcaption><p>Capuz Selvagem de Malaquita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_malaquita_selvagem_chestplate.png" alt=""><figcaption><p>Manto Selvagem de Malaquita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_malaquita_selvagem_leggings.png" alt=""><figcaption><p>Calças Selvagens de Malaquita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_malaquita_selvagem_boots.png" alt=""><figcaption><p>Sapatos Selvagens de Malaquita</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -783,6 +1111,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 <figure><img src="img/receitas/forja_bronze_verdejante_leve_leggings.png" alt=""><figcaption><p>Calças de Bronze Verdejante</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_bronze_verdejante_leve_boots.png" alt=""><figcaption><p>Sapatos de Bronze Verdejante</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_bronze_verdejante_selvagem_helmet.png" alt=""><figcaption><p>Capuz Selvagem de Bronze Verdejante</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_bronze_verdejante_selvagem_chestplate.png" alt=""><figcaption><p>Manto Selvagem de Bronze Verdejante</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_bronze_verdejante_selvagem_leggings.png" alt=""><figcaption><p>Calças Selvagens de Bronze Verdejante</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_bronze_verdejante_selvagem_boots.png" alt=""><figcaption><p>Sapatos Selvagens de Bronze Verdejante</p></figcaption></figure>
 
 </details>
 
@@ -802,6 +1138,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_ferrocerne_leve_boots.png" alt=""><figcaption><p>Sapatos de Ferrocerne</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_ferrocerne_selvagem_helmet.png" alt=""><figcaption><p>Capuz Selvagem de Ferrocerne</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_ferrocerne_selvagem_chestplate.png" alt=""><figcaption><p>Manto Selvagem de Ferrocerne</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_ferrocerne_selvagem_leggings.png" alt=""><figcaption><p>Calças Selvagens de Ferrocerne</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_ferrocerne_selvagem_boots.png" alt=""><figcaption><p>Sapatos Selvagens de Ferrocerne</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -820,6 +1164,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_viridita_leve_boots.gif" alt=""><figcaption><p>Sapatos de Viridita</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_viridita_selvagem_helmet.gif" alt=""><figcaption><p>Capuz Selvagem de Viridita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_viridita_selvagem_chestplate.gif" alt=""><figcaption><p>Manto Selvagem de Viridita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_viridita_selvagem_leggings.gif" alt=""><figcaption><p>Calças Selvagens de Viridita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_viridita_selvagem_boots.gif" alt=""><figcaption><p>Sapatos Selvagens de Viridita</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -837,6 +1189,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 <figure><img src="img/receitas/forja_seiva_estelar_leve_leggings.gif" alt=""><figcaption><p>Calças de Seiva Estelar</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_seiva_estelar_leve_boots.gif" alt=""><figcaption><p>Sapatos de Seiva Estelar</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_seiva_estelar_selvagem_helmet.gif" alt=""><figcaption><p>Capuz Selvagem de Seiva Estelar</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_seiva_estelar_selvagem_chestplate.gif" alt=""><figcaption><p>Manto Selvagem de Seiva Estelar</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_seiva_estelar_selvagem_leggings.gif" alt=""><figcaption><p>Calças Selvagens de Seiva Estelar</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_seiva_estelar_selvagem_boots.gif" alt=""><figcaption><p>Sapatos Selvagens de Seiva Estelar</p></figcaption></figure>
 
 </details>
 
@@ -860,6 +1220,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_jade_monastico_media_boots.png" alt=""><figcaption><p>Botas de Jade Monástico</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_jade_monastico_imortal_helmet.png" alt=""><figcaption><p>Capacete Imortal de Jade Monástico</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_jade_monastico_imortal_chestplate.png" alt=""><figcaption><p>Cota Imortal de Jade Monástico</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_jade_monastico_imortal_leggings.png" alt=""><figcaption><p>Perneiras Imortais de Jade Monástico</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_jade_monastico_imortal_boots.png" alt=""><figcaption><p>Botas Imortais de Jade Monástico</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -879,6 +1247,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 <figure><img src="img/receitas/forja_onix_media_leggings.png" alt=""><figcaption><p>Perneiras de Ônix</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_onix_media_boots.png" alt=""><figcaption><p>Botas de Ônix</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_onix_imortal_helmet.png" alt=""><figcaption><p>Capacete Imortal de Ônix</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_onix_imortal_chestplate.png" alt=""><figcaption><p>Cota Imortal de Ônix</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_onix_imortal_leggings.png" alt=""><figcaption><p>Perneiras Imortais de Ônix</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_onix_imortal_boots.png" alt=""><figcaption><p>Botas Imortais de Ônix</p></figcaption></figure>
 
 </details>
 
@@ -900,6 +1276,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_trovejade_media_boots.png" alt=""><figcaption><p>Botas de Trovejade</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_trovejade_imortal_helmet.png" alt=""><figcaption><p>Capacete Imortal de Trovejade</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_trovejade_imortal_chestplate.png" alt=""><figcaption><p>Cota Imortal de Trovejade</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_trovejade_imortal_leggings.png" alt=""><figcaption><p>Perneiras Imortais de Trovejade</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_trovejade_imortal_boots.png" alt=""><figcaption><p>Botas Imortais de Trovejade</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -919,6 +1303,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 <figure><img src="img/receitas/forja_draconita_media_leggings.gif" alt=""><figcaption><p>Perneiras de Draconita</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_draconita_media_boots.gif" alt=""><figcaption><p>Botas de Draconita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_draconita_imortal_helmet.gif" alt=""><figcaption><p>Capacete Imortal de Draconita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_draconita_imortal_chestplate.gif" alt=""><figcaption><p>Cota Imortal de Draconita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_draconita_imortal_leggings.gif" alt=""><figcaption><p>Perneiras Imortais de Draconita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_draconita_imortal_boots.gif" alt=""><figcaption><p>Botas Imortais de Draconita</p></figcaption></figure>
 
 </details>
 
@@ -940,6 +1332,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_jade_celestial_media_boots.gif" alt=""><figcaption><p>Botas de Jade Celestial</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_jade_celestial_imortal_helmet.gif" alt=""><figcaption><p>Capacete Imortal de Jade Celestial</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_jade_celestial_imortal_chestplate.gif" alt=""><figcaption><p>Cota Imortal de Jade Celestial</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_jade_celestial_imortal_leggings.gif" alt=""><figcaption><p>Perneiras Imortais de Jade Celestial</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_jade_celestial_imortal_boots.gif" alt=""><figcaption><p>Botas Imortais de Jade Celestial</p></figcaption></figure>
+
 </details>
 
 {% endtab %}
@@ -960,6 +1360,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_ambar_crepuscular_media_boots.png" alt=""><figcaption><p>Botas de Âmbar Crepuscular</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_ambar_crepuscular_voraz_helmet.png" alt=""><figcaption><p>Capacete Voraz de Âmbar Crepuscular</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_ambar_crepuscular_voraz_chestplate.png" alt=""><figcaption><p>Cota Voraz de Âmbar Crepuscular</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_ambar_crepuscular_voraz_leggings.png" alt=""><figcaption><p>Perneiras Vorazes de Âmbar Crepuscular</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_ambar_crepuscular_voraz_boots.png" alt=""><figcaption><p>Botas Vorazes de Âmbar Crepuscular</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -977,6 +1385,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 <figure><img src="img/receitas/forja_onix_crepuscular_media_leggings.png" alt=""><figcaption><p>Perneiras de Ônix Crepuscular</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_onix_crepuscular_media_boots.png" alt=""><figcaption><p>Botas de Ônix Crepuscular</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_onix_crepuscular_voraz_helmet.png" alt=""><figcaption><p>Capacete Voraz de Ônix Crepuscular</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_onix_crepuscular_voraz_chestplate.png" alt=""><figcaption><p>Cota Voraz de Ônix Crepuscular</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_onix_crepuscular_voraz_leggings.png" alt=""><figcaption><p>Perneiras Vorazes de Ônix Crepuscular</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_onix_crepuscular_voraz_boots.png" alt=""><figcaption><p>Botas Vorazes de Ônix Crepuscular</p></figcaption></figure>
 
 </details>
 
@@ -996,6 +1412,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_sangrita_media_boots.gif" alt=""><figcaption><p>Botas de Sangrita</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_sangrita_voraz_helmet.gif" alt=""><figcaption><p>Capacete Voraz de Sangrita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_sangrita_voraz_chestplate.gif" alt=""><figcaption><p>Cota Voraz de Sangrita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_sangrita_voraz_leggings.gif" alt=""><figcaption><p>Perneiras Vorazes de Sangrita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_sangrita_voraz_boots.gif" alt=""><figcaption><p>Botas Vorazes de Sangrita</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -1014,6 +1438,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 
 <figure><img src="img/receitas/forja_crepusculo_eterno_media_boots.gif" alt=""><figcaption><p>Botas de Crepúsculo Eterno</p></figcaption></figure>
 
+<figure><img src="img/receitas/forja_crepusculo_eterno_voraz_helmet.gif" alt=""><figcaption><p>Capacete Voraz de Crepúsculo Eterno</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_crepusculo_eterno_voraz_chestplate.gif" alt=""><figcaption><p>Cota Voraz de Crepúsculo Eterno</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_crepusculo_eterno_voraz_leggings.gif" alt=""><figcaption><p>Perneiras Vorazes de Crepúsculo Eterno</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_crepusculo_eterno_voraz_boots.gif" alt=""><figcaption><p>Botas Vorazes de Crepúsculo Eterno</p></figcaption></figure>
+
 </details>
 
 <details>
@@ -1031,6 +1463,14 @@ Armaduras e armas das Ordens saem da **bigorna** (Overgeared): o formato é o me
 <figure><img src="img/receitas/forja_eclipsita_media_leggings.gif" alt=""><figcaption><p>Perneiras de Eclipsita</p></figcaption></figure>
 
 <figure><img src="img/receitas/forja_eclipsita_media_boots.gif" alt=""><figcaption><p>Botas de Eclipsita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_eclipsita_voraz_helmet.gif" alt=""><figcaption><p>Capacete Voraz de Eclipsita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_eclipsita_voraz_chestplate.gif" alt=""><figcaption><p>Cota Voraz de Eclipsita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_eclipsita_voraz_leggings.gif" alt=""><figcaption><p>Perneiras Vorazes de Eclipsita</p></figcaption></figure>
+
+<figure><img src="img/receitas/forja_eclipsita_voraz_boots.gif" alt=""><figcaption><p>Botas Vorazes de Eclipsita</p></figcaption></figure>
 
 </details>
 

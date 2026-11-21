@@ -13,6 +13,15 @@ Escolha sua Linhagem, jure a uma Ordem, forje suas armas e suba os 5 tiers de um
 <div class="linha"><img src="img/arm/guerreiro_t5.png" alt=""><img src="img/arm/mago_t5.png" alt=""><img src="img/arm/berserker_t5.png" alt=""><img src="img/arm/monge_t5.png" alt=""><img src="img/arm/sacerdote_t5.png" alt=""><img src="img/arm/ladino_t5.png" alt=""><img src="img/arm/druida_t5.png" alt=""></div>
 </div>
 
+## Novidades da 1.1.19
+
+<div class="cards">
+<a class="card" href="magia.html"><h3>Mago do Iron's Spells</h3><p>7 Caminhos Elementais, 5 Círculos, livros de magia por tier. Sem armas físicas: cajado e orbe.</p></a>
+<a class="card" href="equipamentos.html"><h3>Duas linhas de armadura</h3><p>Cada material forja a linha Guardiã (defesa) e uma linha de Ataque com tema novo.</p></a>
+<a class="card" href="equipamentos.html#endgame-o-equipamento-da-ordem-e-o-melhor-do-jogo"><h3>Endgame das Ordens</h3><p>Tiers 4 e 5 mais fortes; equipamento de outros mods reduzido.</p></a>
+<a class="card" href="equipamentos.html#efeitos-visuais"><h3>Efeitos visuais</h3><p>Armaduras com brilho animado e aura, golpes com rastro e flechas com rastro.</p></a>
+</div>
+
 ## Por onde começar
 
 <div class="cards">

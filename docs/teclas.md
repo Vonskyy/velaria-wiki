@@ -6,13 +6,14 @@ O modpack já vem com as teclas organizadas, sem conflitos. Se você trocou algu
 | --- | --- |
 | <kbd>K</kbd> | Árvore de habilidades (Caminhos, Class Skills, Weapon Skills) |
 | <kbd>J</kbd> | Livro de quests |
-| <kbd>G</kbd> | Acessórios (Curios): bolsa de runas, tomo, joias |
+| <kbd>G</kbd> | Acessórios (Curios): livro de magia, bolsa de runas, joias |
 | <kbd>O</kbd> | Ver sua Linhagem, Ofício e Ordem |
 | <kbd>R</kbd> | Rolar (esquiva) |
 | <kbd>Z</kbd> | Zoom (role o mouse para aproximar) |
 | <kbd>Botões laterais do mouse</kbd> | Habilidade das espadas únicas (Simply Swords) |
 | <kbd>Y</kbd> | Habilidade da armadura Cataclysm · Ctrl+Y capacete · Shift+Y peitoral · Alt+Y botas |
-| <kbd>Alt</kbd> | Segurar: volta à hotbar normal com cajado na mão |
+| <kbd>Alt esquerdo</kbd> | Mago: segurar abre a roda de magias (Iron's) · outras classes: volta à hotbar normal |
+| <kbd>H</kbd> | Mago: lançar a magia escolhida na roda |
 | <kbd>M</kbd> | Mapa (Diorama) · Shift+M configurações · Alt+M liga/desliga o minimapa |
 | <kbd>Ctrl+M</kbd> | Mapa do FTB Chunks: proteger terreno |
 | <kbd>Ctrl+B / Shift+N</kbd> | Marcar ponto / lista de pontos |

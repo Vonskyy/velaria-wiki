@@ -62,9 +62,9 @@ A Ordem é a sua classe. Cada uma tem **uma armadura própria em cada tier**, fe
 </div>
 <div class="ordem" markdown>
 <div class="topo"><h2>Círculo Arcano</h2><span class="selo">Mago</span><span class="selo peso-leve">Armadura leve</span></div>
-<p>Dano mágico em área. Muito frágil, muito poderoso.</p>
+<p>Iron's Spells: escolhe um dos 7 Caminhos Elementais (Arcano, Fogo, Gelo, Tempestade, Luz, Trevas, Natureza) e sobe 5 Círculos. Sem armas físicas. Muito frágil, muito poderoso.</p>
 <div class="tiers5"><figure><img src="img/arm/mago_t1.png" alt=""><figcaption><b>Tier 1</b>Âmbar Rúnico (liga)</figcaption></figure><figure><img src="img/arm/mago_t2.png" alt=""><figcaption><b>Tier 2</b>Cobalto Rúnico (liga)</figcaption></figure><figure><img src="img/arm/mago_t3.png" alt=""><figcaption><b>Tier 3</b>Adamantita</figcaption></figure><figure><img src="img/arm/mago_t4.png" alt=""><figcaption><b>Tier 4</b>Umbra Arcana (liga)</figcaption></figure><figure><img src="img/arm/mago_t5.png" alt=""><figcaption><b>Tier 5</b>Vacuíta</figcaption></figure></div>
-<div class="caminhos"><div><b>Cajado Arcano</b><br><span>deus: Thoth</span></div><div><b>Adagas</b><br><span>deus: Loki</span></div><div><b>Foice</b><br><span>deus: Morrígan</span></div></div>
+<div class="caminhos"><div><b>Cajado e Orbe</b><br><span>deus: Thoth</span></div><div><b>7 Caminhos Elementais</b><br><span>aba Caminhos (K)</span></div><div><b>5 Círculos</b><br><span>1 por tier</span></div></div>
 </div>
 <div class="ordem" markdown>
 <div class="topo"><h2>Círculo do Carvalho</h2><span class="selo">Druida</span><span class="selo peso-leve">Armadura leve</span></div>
@@ -87,15 +87,15 @@ Quer trocar? Use o **Tomo do Destino**: ele reabre a escolha da Graça. Também 
 | **Ares** (grego) | +1 de dano corpo a corpo. | Espada | Guerreiro, Paladino, Ladino, Bruxo |
 | **Susanoo** (japonês) | 5% mais rápido. | Katana | Guerreiro, Monge, Lâmina Arcana |
 | **Tyr** (nórdico) | +15% de resistência a repulsão. | Espada Longa | Guerreiro, Berserker, Lâmina Arcana |
-| **Loki** (nórdico) | Alcança criaturas meio bloco mais longe. Anda agachado 30% mais rápido. | Adagas | Mago, Ladino |
+| **Loki** (nórdico) | Alcança criaturas meio bloco mais longe. Anda agachado 30% mais rápido. | Adagas | Ladino |
 | **Atena** (grego) | +2 de armadura. | Lança | Paladino, Sacerdote, Arqueiro, Druida, Monge |
 | **Thor** (nórdico) | +1 de resistência da armadura. | Martelo e Maça | Paladino, Sacerdote, Berserker |
 | **Perun** (eslavo) | Seus golpes empurram mais longe. | Machado de Guerra | Berserker |
-| **Morrígan** (celta) | Ataca 5% mais rápido. | Foice | Mago, Druida |
+| **Morrígan** (celta) | Ataca 5% mais rápido. | Foice | Druida |
 | **Hanuman** (hindu) | Pula mais alto. Cai 3 blocos a mais sem se machucar. | Manoplas | Monge |
 | **Ártemis** (grego) | +1 de sorte (pesca e baús melhores). | Arco | Arqueiro |
 | **Ullr** (nórdico) | +4% de dano à distância. | Besta | Ladino, Arqueiro, Bruxo |
-| **Thoth** (egípcio) | +5% de poder arcano. | Cajado Arcano | Mago |
+| **Thoth** (egípcio) | +5% de poder mágico. | Cajado (Mago) | Mago (+8% de poder mágico com o cajado; o Arquimago dobra) |
 | **Amaterasu** (japonês) | +2 de vida máxima (1 coração). | Cajado Sagrado | Sacerdote |
 | **Cernunnos** (celta) | Sobe blocos inteiros sem pular. | Bastão da Natureza | Druida |
 | **Hécate** (grego) | Fogo queima você pela metade do tempo. | Lâmina Arcana | Lâmina Arcana |

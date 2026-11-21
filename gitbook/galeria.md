@@ -8,3 +8,6 @@ Imagens prontas para divulgar Velária. Clique com o botão direito para salvar.
 ![Armaduras vestidas: Guerreiro a Bruxo](img/galeria/armaduras_3d_a.png)
 ![Armaduras vestidas: Monge a Druida](img/galeria/armaduras_3d_b.png)
 ![Arsenal em 3D](img/galeria/sneak_9_arsenal_3d.gif)
+![Linha de Ataque vestida: Guerreiro a Bruxo](img/galeria/linha_ataque_3d_a.png)
+![Linha de Ataque vestida: Monge a Druida](img/galeria/linha_ataque_3d_b.png)
+![Brilho animado das armaduras](img/galeria/brilho_animado.gif)
