@@ -145,21 +145,28 @@ def bloco(el, saida, pagina):
         nome = topo.find("h2").get_text(strip=True)
         selos = [s.get_text(strip=True) for s in topo.find_all("span", class_="selo")]
         saida += [f"## {nome}", "", " · ".join(f"`{s}`" for s in selos), ""]
-        for p in el.find_all("p", recursive=False):
-            saida += [inline(p).strip(), ""]
-        t5 = el.find("div", class_="tiers5")
-        if t5:
-            figs = t5.find_all("figure")
-            cab, imgs, mats = [], [], []
-            for f in figs:
-                cap = f.find("figcaption")
-                b = cap.find("b")
-                cab.append(b.get_text(strip=True))
-                b.extract()
-                mats.append(cap.get_text(" ", strip=True))
-                imgs.append(f'<img src="{f.find("img")["src"]}" alt="" width="96">')
-            saida += ["| " + " | ".join(cab) + " |", "|" + "---|" * len(cab),
-                      "| " + " | ".join(imgs) + " |", "| " + " | ".join(mats) + " |", ""]
+        for filho in el.find_all(recursive=False):
+            cl = filho.get("class") or []
+            if filho.name == "p":
+                txt = inline(filho).strip()
+                saida += [f"**{txt}**" if "legenda" in cl else txt, ""]
+            elif "tiers5" in cl:
+                cab, imgs, mats = [], [], []
+                for f in filho.find_all("figure"):
+                    cap = f.find("figcaption")
+                    b = cap.find("b")
+                    cab.append(b.get_text(strip=True))
+                    b.extract()
+                    mats.append(cap.get_text(" ", strip=True))
+                    imgs.append(f'<img src="{f.find("img")["src"]}" alt="" width="96">')
+                saida += ["| " + " | ".join(cab) + " |", "|" + "---|" * len(cab),
+                          "| " + " | ".join(imgs) + " |", "| " + " | ".join(mats) + " |", ""]
+            elif filho.name == "details":
+                sm = filho.find("summary")
+                titulo = sm.get_text(strip=True) if sm else "Detalhes"
+                if sm: sm.extract()
+                corpo = "".join(str(c) for c in filho.contents).strip()
+                saida += ["<details>", "", f"<summary>{titulo}</summary>", "", corpo, "", "</details>", ""]
         cam = el.find("div", class_="caminhos")
         if cam:
             itens = []
